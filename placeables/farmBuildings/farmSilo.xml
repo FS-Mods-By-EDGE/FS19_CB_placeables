@@ -9,7 +9,7 @@
             <capacity>200000</capacity>
             <fillTypes>wheat barley canola maize oat sunflower soybean</fillTypes>
         </specs>
-        <image>maps/data/placeables/farmBuildings/store_farmSilo.png</image>
+        <image>placeables/farmBuildings/store_farmSilo.png</image>
         <price>20000</price>
         <lifetime>1000</lifetime>
         <canBeSold>true</canBeSold>
@@ -22,7 +22,7 @@
     </storeData>
 
     <placeableType>silo</placeableType>
-    <filename>maps/data/placeables/farmBuildings/farmSilo.i3d</filename>
+    <filename>placeables/farmBuildings/farmSilo.i3d</filename>
     <placement testSizeX="40" testSizeZ="40" sizeX="30" sizeZ="30" useRandomYRotation="false" useManualYRotation="true" />
 
     <loadingStation stationName="$l10n_station_farmSilo" appearsOnPDA="false" storageRadius="50" fillSoundIdentifier="fillSound01">

@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_mills</function>
   </functions>
-  <image>maps/data/placeables/store_windmill.png</image>
+  <image>store/store_windmill.png</image>
   <price>18000</price>
   <dailyUpkeep>22</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>windTurbine</placeableType>
- <filename>maps/data/placeables/windmill.i3d</filename>
+ <filename>placeables/EDGE/windmill.i3d</filename>
  <placement testSizeX="16" testSizeZ="16" sizeX="16" sizeZ="16" useRandomYRotation="false" useManualYRotation="true" />
 
  <incomePerHour1>1000</incomePerHour1>

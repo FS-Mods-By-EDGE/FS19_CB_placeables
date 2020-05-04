@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_fencePlanks10</function>
   </functions>
-  <image>maps/data/placeables/store_fencePlanks10.png</image>
+  <image>store/store_fencePlanks10.png</image>
   <price>1000</price>
   <dailyUpkeep>3</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/fencePlanks10.i3d</filename>
+ <filename>placeables/EDGE/fencePlanks10.i3d</filename>
  <placement testSizeX="19" testSizeZ="1" sizeX="19" sizeZ="1" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

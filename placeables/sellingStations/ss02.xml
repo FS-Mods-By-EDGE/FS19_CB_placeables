@@ -8,7 +8,7 @@
   <specs>
    <fillTypes>wheat barley sunflower maize oat</fillTypes>
   </specs>
-  <image>placeables/sellingStations/store_sellingStation.png</image>
+  <image>store/store_sellingStation.png</image>
   <price>35000</price>
   <dailyUpkeep>35</dailyUpkeep>
   <lifetime>1000</lifetime>

@@ -5,7 +5,7 @@
         <functions>
             <function>$l10n_function_StrawBarn_SellingSpot</function>
         </functions>
-        <image>maps/data/placeables/EDGE/StrawBarn_SellingSpot/Store_StrawBarn.dds</image>
+        <image>placeables/EDGE/StrawBarn_SellingSpot/Store_StrawBarn.dds</image>
         <canBeSold>true</canBeSold>
         <showInStore>false</showInStore>
         <price>50000</price>
@@ -17,7 +17,7 @@
         <category>placeableMisc</category>
     </storeData>
     <placeableType>sellingStation</placeableType>
-    <filename>maps/data/placeables/EDGE/StrawBarn_SellingSpot/StrawBarn_SellingSpot.i3d</filename>
+    <filename>placeables/EDGE/StrawBarn_SellingSpot/StrawBarn_SellingSpot.i3d</filename>
     <placement testSizeX="17.5" testSizeZ="23" sizeX="17.5" sizeZ="23" useRandomYRotation="false" useManualYRotation="true"/>
     <dayNightObjects>
         <dayNightObject node="3|2" visibleDay="false" visibleNight="true" intensityNight="0.6"/>

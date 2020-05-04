@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_decoration</function>
   </functions>
-  <image>maps/data/placeables/store_bigFactory.png</image>
+  <image>store/store_bigFactory.png</image>
   <price>14000</price>
   <dailyUpkeep>14</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/bigFactory.i3d</filename>
+ <filename>placeables/EDGE/bigFactory.i3d</filename>
  <placement testSizeX="50" testSizeZ="16" sizeX="50" sizeZ="16" useRandomYRotation="false" useManualYRotation="true" />
 
  <dayNightObjects>

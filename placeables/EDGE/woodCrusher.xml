@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_woodCrusher</name>
-  <image>maps/data/placeables/store_woodCrusher.png</image>
+  <image>store/store_woodCrusher.png</image>
   <specs>
    <fillTypes>treeSaplings</fillTypes>
   </specs>
@@ -24,7 +24,7 @@
  </storeData>
 
  <placeableType>woodCrusher</placeableType>
- <filename>maps/data/placeables/woodCrusher.i3d</filename>
+ <filename>placeables/EDGE/woodCrusher.i3d</filename>
  <placement testSizeX="10" testSizeZ="12" sizeX="10" sizeZ="12" useRandomYRotation="false" useManualYRotation="true" />
 
  <woodCrusher priceScale="2" cutNode="1|0|2" cutSizeY="1.5" cutSizeZ="2" downForceNode="1|0|3" mainDrumRefNode="1|0|5" downForce="1" moveMaxForce="9" automaticallyTurnOn="true">

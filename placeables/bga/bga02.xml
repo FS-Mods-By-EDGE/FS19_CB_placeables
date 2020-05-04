@@ -2,7 +2,7 @@
 <placeable>
     <storeData>
         <name>$l10n_storageSilo</name>
-        <image>$data/store/store_empty.png</image>
+        <image>$data/store/store_empty.dds</image>
         <price>1</price>
         <canBeSold>false</canBeSold>
         <showInStore>false</showInStore>
@@ -15,7 +15,7 @@
     </storeData>
 
     <placeableType>bgaPlaceable</placeableType>
-    <filename>maps/data/placeables/bga/bga02.i3d</filename>
+    <filename>placeables/bga/bga02.i3d</filename>
     <placement testSizeX="1" testSizeZ="1" sizeX="1" sizeZ="1" useRandomYRotation="false" useManualYRotation="true" />
 
     <bga>

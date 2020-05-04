@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_huntingHut</name>
-  <image>maps/data/placeables/store_huntingHut.png</image>
+  <image>store/store_huntingHut.png</image>
   <functions>
    <function>$l10n_function_decoration</function>
   </functions>
@@ -20,7 +20,7 @@
   <instanceIndexBufferMemoryUsage>0</instanceIndexBufferMemoryUsage>
  </storeData>
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/huntingHut.i3d</filename>
+ <filename>placeables/EDGE/huntingHut.i3d</filename>
  <placement testSizeX="5" testSizeZ="7" sizeX="5" sizeZ="7" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

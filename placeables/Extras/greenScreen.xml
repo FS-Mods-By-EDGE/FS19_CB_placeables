@@ -6,7 +6,7 @@
             <function>$l10n_function_greenScreen</function>
             <function>$l10n_function_decoration</function>
         </functions>
-        <image>icons/store_greenScreen.dds</image>
+        <image>store/store_greenScreen.dds</image>
         <price>0</price>
         <lifetime>1000</lifetime>
         <dailyUpkeep>0</dailyUpkeep>
@@ -16,7 +16,7 @@
         <category>decoration</category>
     </storeData>
     <placeableType>placeable</placeableType>
-    <filename>maps/data/placeables/Extras/greenScreen.i3d</filename>
+    <filename>placeables/Extras/greenScreen.i3d</filename>
     <placement testSizeX="60" testSizeZ="1" sizeX="60" sizeZ="1" useRandomYRotation="false" useManualYRotation="true" />
     <leveling requireLeveling="false" maxSmoothDistance="10" maxSlope="75" maxEdgeAngle="30" />
 

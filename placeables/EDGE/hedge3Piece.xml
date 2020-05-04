@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_hedge3Piece</function>
   </functions>
-  <image>maps/data/placeables/store_hedge3Piece.png</image>
+  <image>store/store_hedge3Piece.png</image>
   <price>900</price>
   <dailyUpkeep>3</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/hedge3Piece.i3d</filename>
+ <filename>placeables/EDGE/hedge3Piece.i3d</filename>
  <placement testSizeX="22" testSizeZ="1" sizeX="22" sizeZ="1" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

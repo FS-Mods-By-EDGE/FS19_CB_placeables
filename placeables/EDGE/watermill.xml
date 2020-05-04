@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_watermill</name>
-  <image>maps/data/placeables/store_watermill.png</image>
+  <image>store/store_watermill.png</image>
   <functions>
    <function>$l10n_function_mills</function>
   </functions>
@@ -22,7 +22,7 @@
   <instanceIndexBufferMemoryUsage>0</instanceIndexBufferMemoryUsage>
  </storeData>
  <placeableType>windTurbine</placeableType>
- <filename>maps/data/placeables/watermill.i3d</filename>
+ <filename>placeables/EDGE/watermill.i3d</filename>
  <placement testSizeX="2" testSizeZ="2" sizeX="1.5" sizeZ="1.5" useRandomYRotation="false" useManualYRotation="true" />
 
  <incomePerHour1>1000</incomePerHour1>

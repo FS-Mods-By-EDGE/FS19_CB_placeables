@@ -5,7 +5,7 @@
   <!-- <functions>
    <function>$l10n_function_baleShelter</function>
   </functions> -->
-  <image>maps/data/placeables/store_oldBaleShelter.png</image>
+  <image>store/store_oldBaleShelter.png</image>
   <price>5000</price>
   <dailyUpkeep>2</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/oldBaleShelter.i3d</filename>
+ <filename>placeables/EDGE/oldBaleShelter.i3d</filename>
  <placement testSizeX="16" testSizeZ="10" sizeX="16" sizeZ="10" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

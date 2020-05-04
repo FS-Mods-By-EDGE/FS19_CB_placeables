@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_siloBin</name>
-  <image>maps/data/placeables/store_siloBin.png</image>
+  <image>store/store_siloBin.png</image>
   <functions>
    <function>$l10n_function_decoration</function>
   </functions>
@@ -19,7 +19,7 @@
   <instanceIndexBufferMemoryUsage>0</instanceIndexBufferMemoryUsage>
  </storeData>
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/siloBin.i3d</filename>
+ <filename>placeables/EDGE/siloBin.i3d</filename>
  <placement testSizeX="7" testSizeZ="7" sizeX="7" sizeZ="7" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

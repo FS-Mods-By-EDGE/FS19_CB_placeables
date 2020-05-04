@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_outlook</name>
-  <image>maps/data/placeables/store_outlook.png</image>
+  <image>store/store_outlook.png</image>
   <functions>
    <function>$l10n_function_decoration</function>
   </functions>
@@ -20,7 +20,7 @@
   <instanceIndexBufferMemoryUsage>0</instanceIndexBufferMemoryUsage>
  </storeData>
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/outlook.i3d</filename>
+ <filename>placeables/EDGE/outlook.i3d</filename>
  <placement testSizeX="6" testSizeZ="3" sizeX="6" sizeZ="3" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

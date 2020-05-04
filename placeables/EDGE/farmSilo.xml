@@ -9,7 +9,7 @@
    <capacity>200000</capacity>
    <fillTypes>wheat barley canola maize oat sunflower soybean</fillTypes>
   </specs>
-  <image>maps/data/placeables/store_farmSilo.png</image>
+  <image>store/store_farmSilo.png</image>
   <price>54000</price>
   <dailyUpkeep>50</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -25,7 +25,7 @@
  </storeData>
 
  <placeableType>silo</placeableType>
- <filename>maps/data/placeables/farmSilo.i3d</filename>
+ <filename>placeables/EDGE/farmSilo.i3d</filename>
  <placement testSizeX="12" testSizeZ="9" sizeX="12" sizeZ="9" useRandomYRotation="false" useManualYRotation="true" />
 
  <dayNightObjects>

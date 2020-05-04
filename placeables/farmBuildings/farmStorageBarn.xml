@@ -5,7 +5,7 @@
         <functions>
             <function>$l10n_function_decoration</function>
         </functions>
-        <image>maps/data/placeables/farmBuildings/store_farmStorageBarn.png</image>
+        <image>placeables/farmBuildings/store_farmStorageBarn.png</image>
         <price>50000</price>
         <lifetime>1000</lifetime>
         <rotation>0</rotation>
@@ -15,7 +15,7 @@
     </storeData>
 
     <placeableType>placeable</placeableType>
-    <filename>maps/data/placeables/farmBuildings/farmStorageBarn.i3d</filename>
+    <filename>placeables/farmBuildings/farmStorageBarn.i3d</filename>
     <placement testSizeX="43" testSizeZ="41" sizeX="38" sizeZ="36" useRandomYRotation="false" useManualYRotation="true" />
 
 	<dayNightObjects>

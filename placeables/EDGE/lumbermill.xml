@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_station_sawmill</name>
-  <image>maps/data/placeables/store_lumbermill.png</image>
+  <image>store/store_lumbermill.png</image>
   <price>65000</price>
   <dailyUpkeep>55</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -18,7 +18,7 @@
  </storeData>
 
  <placeableType>woodSellPlacable</placeableType>
- <filename>maps/data/placeables/lumbermill.i3d</filename>
+ <filename>placeables/EDGE/lumbermill.i3d</filename>
  <placement testSizeX="34" testSizeZ="11" sizeX="34" sizeZ="11" useRandomYRotation="false" useManualYRotation="true" />
 
  <woodSellStation stationName="$l10n_station_sawmill" triggerNode="0|0" sellTrigger="0|1" appearsOnPDA="true" />

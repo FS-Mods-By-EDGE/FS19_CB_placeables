@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_decoration</function>
   </functions>
-  <image>maps/data/placeables/store_woodOuthouse.png</image>
+  <image>store/store_woodOuthouse.png</image>
   <price>800</price>
   <dailyUpkeep>8</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/woodOuthouse.i3d</filename>
+ <filename>placeables/EDGE/woodOuthouse.i3d</filename>
  <placement testSizeX="2" testSizeZ="2" sizeX="2" sizeZ="2" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

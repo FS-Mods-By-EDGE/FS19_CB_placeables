@@ -14,7 +14,7 @@
     </storeData>
 
     <placeableType>sellingStation</placeableType>
-    <filename>maps/data/placeables/sellingStations/sellingStationTrain.i3d</filename>
+    <filename>placeables/sellingStations/sellingStationTrain.i3d</filename>
     <placement testSizeX="15" testSizeZ="8" sizeX="4" sizeZ="3" useRandomYRotation="false" useManualYRotation="true" />
 
     <sellingStation stationName="$l10n_station_transportCompany" appearsOnPDA="true" storageRadius="0" litersForFullPriceDrop="100000" fullPriceRecoverHours="48">

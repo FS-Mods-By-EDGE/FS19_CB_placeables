@@ -19,7 +19,7 @@
     </storeData>
 
     <placeableType>buyingStation</placeableType>
-    <filename>maps/data/placeables/Buyingstations/gasStation01.i3d</filename>
+    <filename>placeables/Buyingstations/gasStation01.i3d</filename>
     <placement testSizeX="5" testSizeZ="10" sizeX="3" sizeZ="3" useRandomYRotation="false" useManualYRotation="true" />
 
     <buyingStation stationName="$l10n_station_gasStation" appearsOnPDA="true" storageRadius="0" fillSoundIdentifier="fillSound01" hotspotImageName="GAS_STATION" showHotspotText="false">

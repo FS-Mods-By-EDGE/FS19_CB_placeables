@@ -9,7 +9,7 @@
    <capacity>100000</capacity>
    <fillTypes>water milk liquidManure digestate</fillTypes>
   </specs>
-  <image>maps/data/placeables/store_liquidStorageExtension.png</image>
+  <image>store/store_liquidStorageExtension.png</image>
   <price>22500</price>
   <lifetime>1000</lifetime>
   <dailyUpkeep>22</dailyUpkeep>
@@ -25,7 +25,7 @@
  </storeData>
 
  <placeableType>siloExtension</placeableType>
- <filename>maps/data/placeables/liquidStorageExtension.i3d</filename>
+ <filename>placeables/EDGE/liquidStorageExtension.i3d</filename>
  <placement testSizeX="3" testSizeZ="3" sizeX="3" sizeZ="3" useRandomYRotation="false" useManualYRotation="true"/>
 
  <storage node="1" fillTypes="water milk liquidManure digestate" capacityPerFillType="100000" />

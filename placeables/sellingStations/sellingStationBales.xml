@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_ssBales</name>
-  <image>maps/data/placeables/store_sellingStationBales.png</image>
+  <image>store/store_sellingStationBales.png</image>
   <price>52000</price>
   <dailyUpkeep>46</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -18,7 +18,7 @@
  </storeData>
 
  <placeableType>sellingStation</placeableType>
- <filename>maps/data/placeables/sellingStationBales.i3d</filename>
+ <filename>placeables/sellingStations/sellingStationBales.i3d</filename>
  <placement testSizeX="18" testSizeZ="9" sizeX="18" sizeZ="9" useRandomYRotation="false" useManualYRotation="true" />
 
  <dayNightObjects>

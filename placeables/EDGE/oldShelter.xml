@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_machineshed</function>
   </functions>
-  <image>maps/data/placeables/store_oldShelter.png</image>
+  <image>store/store_oldShelter.png</image>
   <price>15000</price>
   <dailyUpkeep>3</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/oldShelter.i3d</filename>
+ <filename>placeables/EDGE/oldShelter.i3d</filename>
  <placement testSizeX="16" testSizeZ="20" sizeX="16" sizeZ="20" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

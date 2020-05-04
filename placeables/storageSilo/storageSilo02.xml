@@ -21,7 +21,7 @@
     </storeData>
 
     <placeableType>silo</placeableType>
-    <filename>maps/data/placeables/storageSilo/storageSilo.i3d</filename>
+    <filename>placeables/storageSilo/storageSilo.i3d</filename>
     <placement testSizeX="40" testSizeZ="40" sizeX="30" sizeZ="30" useRandomYRotation="false" useManualYRotation="true" />
 
     <loadingStation stationName="$l10n_storageSilo" appearsOnPDA="false" storageRadius="50" fillSoundIdentifier="fillSound01">

@@ -14,7 +14,7 @@
     </storeData>
 
 	<placeableType>buyingStation</placeableType>
-    <filename>maps/data/placeables/BuyingStations/limeStation.i3d</filename>
+    <filename>placeables/BuyingStations/limeStation.i3d</filename>
     <placement testSizeX="27" testSizeZ="20" sizeX="27" sizeZ="20" useRandomYRotation="false" useManualYRotation="true" />
 
 	<buyingStation stationName="$l10n_station_lime" appearsOnPDA="true" storageRadius="0" fillSoundIdentifier="fillSound01">

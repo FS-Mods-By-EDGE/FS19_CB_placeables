@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_warehouse</function>
   </functions>
-  <image>maps/data/placeables/store_warehouse.png</image>
+  <image>store/store_warehouse.png</image>
   <price>35000</price>
   <dailyUpkeep>30</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/warehouse.i3d</filename>
+ <filename>placeables/EDGE/warehouse.i3d</filename>
  <placement testSizeX="32" testSizeZ="41" sizeX="32" sizeZ="41" useRandomYRotation="false" useManualYRotation="true" />
 
  <clearAreas>

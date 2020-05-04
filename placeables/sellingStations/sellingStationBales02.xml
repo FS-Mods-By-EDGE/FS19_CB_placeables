@@ -14,7 +14,7 @@
     </storeData>
 
     <placeableType>sellingStation</placeableType>
-    <filename>maps/data/placeables/sellingStations/sellingStationBales02.i3d</filename>
+    <filename>placeables/sellingStations/sellingStationBales02.i3d</filename>
     <placement testSizeX="15" testSizeZ="8" sizeX="4" sizeZ="3" useRandomYRotation="false" useManualYRotation="true" />
 
     <sellingStation stationName="$l10n_station_barn" appearsOnPDA="true" storageRadius="0" litersForFullPriceDrop="100000" fullPriceRecoverHours="48" hotspotTextOffset="0px 35px">

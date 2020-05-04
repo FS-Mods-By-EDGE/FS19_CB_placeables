@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_oldNightLight</function>
   </functions>
-  <image>maps/data/placeables/store_oldNightLight.png</image>
+  <image>store/store_oldNightLight.png</image>
   <price>1000</price>
   <dailyUpkeep>4</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>placeable</placeableType>
- <filename>maps/data/placeables/oldNightLight.i3d</filename>
+ <filename>placeables/EDGE/oldNightLight.i3d</filename>
  <placement testSizeX="0.5" testSizeZ="0.5" sizeX="0.5" sizeZ="0.5" useRandomYRotation="false" useManualYRotation="true"/>
 
  <dayNightObjects>

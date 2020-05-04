@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_waterTower</name>
-  <image>maps/data/placeables/store_waterTower.png</image>
+  <image>store/store_waterTower.png</image>
   <functions>
    <function>$l10n_function_waterTower</function>
   </functions>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>buyingStation</placeableType>
- <filename>maps/data/placeables/waterTower.i3d</filename>
+ <filename>placeables/EDGE/waterTower.i3d</filename>
  <placement testSizeX="5" testSizeZ="5" sizeX="5" sizeZ="5" useRandomYRotation="false" useManualYRotation="true" />
 
  <dayNightObjects>

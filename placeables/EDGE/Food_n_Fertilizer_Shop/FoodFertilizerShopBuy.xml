@@ -13,7 +13,7 @@
                 <fr>Ici vous pouvez acheter n'importe quel type d'engrais (fumier exclu), ainsi que de la nourriture pour vos animaux les livreurs prennent 10%.</fr>
             </function>
         </functions>
-        <image>maps/data/placeables/EDGE/Food_n_Fertilizer_Shop/Store_fillingArea.dds</image>
+        <image>placeables/EDGE/Food_n_Fertilizer_Shop/Store_fillingArea.dds</image>
         <canBeSold>false</canBeSold>
         <showInStore>false</showInStore>
         <boughtWithFarmland>true</boughtWithFarmland>
@@ -26,7 +26,7 @@
         <category>placeableMisc</category>
     </storeData>
     <placeableType>buyingStation</placeableType>
-    <filename>maps/data/placeables/EDGE/Food_n_Fertilizer_Shop/FoodFertilizerShopBuy.i3d</filename>
+    <filename>placeables/EDGE/Food_n_Fertilizer_Shop/FoodFertilizerShopBuy.i3d</filename>
     <placement testSizeX="20.8" testSizeZ="10.9" sizeX="20.8" sizeZ="10.9" useRandomYRotation="false" useManualYRotation="true"/>
     <clearAreas>
         <clearArea startNode="1|0" widthNode="1|0|0" heightNode="1|0|1"/>

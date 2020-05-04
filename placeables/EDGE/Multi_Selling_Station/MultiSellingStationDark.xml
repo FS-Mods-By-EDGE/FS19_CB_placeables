@@ -5,7 +5,7 @@
         <functions>
             <function>$l10n_function_MultiSellingStation</function>
         </functions>
-        <image>maps/data/placeables/EDGE/Multi_Selling_Station/StorePictureDark.dds</image>
+        <image>placeables/EDGE/Multi_Selling_Station/StorePictureDark.dds</image>
         <canBeSold>true</canBeSold>
         <showInStore>false</showInStore>
         <boughtWithFarmland>true</boughtWithFarmland>
@@ -18,7 +18,7 @@
         <category>placeableMisc</category>
     </storeData>
     <placeableType>sellingStation</placeableType>
-    <filename>maps/data/placeables/EDGE/Multi_Selling_Station/MultiSellingStationDark.i3d</filename>
+    <filename>placeables/EDGE/Multi_Selling_Station/MultiSellingStationDark.i3d</filename>
     <placement testSizeX="14" testSizeZ="14" sizeX="13" sizeZ="13" useRandomYRotation="false" useManualYRotation="true"/>
     <dayNightObjects>
         <dayNightObject node="5|0|0" visibleDay="false" visibleNight="true" intensityNight="0.6"/>

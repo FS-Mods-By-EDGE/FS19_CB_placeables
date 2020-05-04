@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_ssvsGrains</name>
-  <image>placeables/sellingStations/store_sellingStation.png</image>
+  <image>store/store_sellingStation.png</image>
   <price>1</price>
   <canBeSold>false</canBeSold>
   <showInStore>false</showInStore>

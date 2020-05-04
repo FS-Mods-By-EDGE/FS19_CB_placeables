@@ -2,7 +2,7 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_ssWoodChips</name>
-  <image>maps/data/placeables/store_ssWoodChips.png</image>
+  <image>store/store_ssWoodChips.png</image>
   <price>20000</price>
   <dailyUpkeep>3</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -18,7 +18,7 @@
  </storeData>
 
  <placeableType>sellingStation</placeableType>
- <filename>maps/data/placeables/woodChips.i3d</filename>
+ <filename>placeables/EDGE/woodChips.i3d</filename>
  <placement testSizeX="14" testSizeZ="14" sizeX="14" sizeZ="14" useRandomYRotation="false" useManualYRotation="true" />
 
  <sellingStation stationName="$l10n_station_ssWoodChips" appearsOnPDA="true" storageRadius="0" litersForFullPriceDrop="100000" fullPriceRecoverHours="48">

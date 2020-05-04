@@ -6,7 +6,7 @@
    <capacity>100000</capacity>
    <fillTypes>wheat barley canola maize oat sunflower soybean</fillTypes>
   </specs>
-  <image>maps/data/placeables/store_farmSiloExtension.png</image>
+  <image>store/store_farmSiloExtension.png</image>
   <functions>
    <function>$l10n_function_siloExtension</function>
   </functions>
@@ -26,7 +26,7 @@
  </storeData>
 
  <placeableType>siloExtension</placeableType>
- <filename>maps/data/placeables/farmSiloExtension.i3d</filename>
+ <filename>placeables/EDGE/farmSiloExtension.i3d</filename>
  <placement testSizeX="6" testSizeZ="6" sizeX="6" sizeZ="6" useRandomYRotation="false" useManualYRotation="true" />
 
  <storage node="1" fillTypes="wheat barley canola maize oat sunflower soybean" capacityPerFillType="100000" />

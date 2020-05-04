@@ -9,7 +9,7 @@
    <capacity>300000</capacity>
    <fillTypes>water milk liquidManure digestate</fillTypes>
   </specs>
-  <image>maps/data/placeables/store_liquidStorage.png</image>
+  <image>store/store_liquidStorage.png</image>
   <price>45000</price>
   <dailyUpkeep>39</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -25,7 +25,7 @@
  </storeData>
 
  <placeableType>silo</placeableType>
- <filename>maps/data/placeables/liquidStorage.i3d</filename>
+ <filename>placeables/EDGE/liquidStorage.i3d</filename>
  <placement testSizeX="9" testSizeZ="8" sizeX="9" sizeZ="8" useRandomYRotation="false" useManualYRotation="true"/>
 
  <loadingStation stationName="$l10n_station_farmSilo" appearsOnPDA="false" storageRadius="50" fillSoundIdentifier="fillSound01">

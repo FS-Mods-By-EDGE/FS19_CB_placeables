@@ -5,7 +5,7 @@
   <functions>
    <function>$l10n_function_greenHouse</function>
   </functions>
-  <image>maps/data/placeables/store_tomato.png</image>
+  <image>store/store_tomato.png</image>
   <price>18000</price>
   <dailyUpkeep>18</dailyUpkeep>
   <lifetime>1000</lifetime>
@@ -21,7 +21,7 @@
  </storeData>
 
  <placeableType>greenhouse</placeableType>
- <filename>maps/data/placeables/tomato.i3d</filename>
+ <filename>placeables/EDGE/tomato.i3d</filename>
  <placement testSizeX="11" testSizeZ="21" sizeX="11" sizeZ="21" useRandomYRotation="false" useManualYRotation="true" />
 
  <incomePerHour1>1000</incomePerHour1>

@@ -118,7 +118,7 @@ Dimensioni: 14 x 15 metri.
 Capacità: 100.000 litri.
 Velocità di sovraccarico 2000 litri al secondo.]]></it>
 	</description>
-    <iconFilename>EdgeSign_Icon.dds</iconFilename>
+    <iconFilename>CB_Icon.dds</iconFilename>
     <multiplayer supported="true"/>
     <storeItems>
         <storeItem xmlFilename="placeables/props/EdgeSign.xml"/>
@@ -128,7 +128,7 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation01.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation02.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation.xml"/>
-        <storeItem xmlFilename="placeables/BuyingStations/LimeStation01.xml"/>
+        <storeItem xmlFilename="placeables/BuyingStations/LimeStation.xml"/>
         <storeItem xmlFilename="placeables/waterFillTriggers/waterFillTrigger.xml"/>
         <storeItem xmlFilename="placeables/Extras/greenScreen.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationBales01.xml"/>

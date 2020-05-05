@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable>
     <storeData>
-        <name>$l10n_fillType_Lime</name>
+        <name>$l10n_name_limestation</name>
         <image>$data/store/store_empty.png</image>
         <price>5000</price>
         <canBeSold>true</canBeSold>
@@ -13,7 +13,6 @@
         <species>placeable</species>
         <category>placeableMisc</category>
     </storeData>
-
 	<placeableType>buyingStation</placeableType>
     <filename>placeables/BuyingStations/limeStation.i3d</filename>
     <placement testSizeX="6" testSizeZ="9.5" sizeX="6" sizeZ="9.5" useRandomYRotation="false" useManualYRotation="true"/>
@@ -35,14 +34,14 @@
 	<animatedObjects>
         <animatedObject saveId="fillMark_01" >
             <animation duration="0.1">
-                <part node="1|0|0">
+                <part node="1|0|0|0|3|0|0">
                     <keyFrame time="0.0" visibility="true"/>
 					<keyFrame time="1" visibility="false" />
                 </part>
             </animation>
-            <controls triggerNode="1|1" posAction="ACTIVATE_HANDTOOL" posText="action_toggleFillmarker" negText="action_toggleFillmark" />
+            <controls triggerNode="1|0|0|0|3|1" posAction="ACTIVATE_HANDTOOL" posText="action_toggleFillmark_on" negText="action_toggleFillmark_off" />
             <sounds>
-                <moving file="$data/sounds/player/flashlight/flashlight.wav" loops="1" linkNode="1|1" volume="0.8" radius="25" innerRadius="3" fadeOut="0.25"/>
+                <moving file="$data/sounds/player/flashlight/flashlight.wav" loops="1" linkNode="1|0|0|0|3|1" volume="0.8" radius="25" innerRadius="3" fadeOut="0.25"/>
             </sounds>
         </animatedObject>
     </animatedObjects>

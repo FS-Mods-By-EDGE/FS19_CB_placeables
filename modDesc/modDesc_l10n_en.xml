@@ -16,6 +16,7 @@
 		<text name="function_WaterWell"    				text="A well where you can get free water"/>
 		<text name="function_EDGELights"         		text="Building has Automatic Lights"/>
 		<text name="name_WaterWell"    					text="Water Well"/>
+		<text name="name_limestation"    				text="Lime Station"/>
 			<!--MultiStations-->
 		<text name="name_MultiSellingStation_Black"		text="Multi Selling Station"/>
 		<text name="function_MultiSellingStation"		text="Here you can sell anything you'd like, From crop harvest to seeds and fertilizer."/>
@@ -32,6 +33,7 @@
 		<text name="function_greenScreen"    			text="You can place this wall in the background for shop phots. There is Also a Ground Paint in this color."/>
 		<text name="shopItem_greenScreen"    			text="Green Screen"/>
 			<!--Actions-->
-		<text name="action_toggleFillmark" 				text="Fillmark on/off"/>
+		<text name="action_toggleFillmark_on" 			text="Fillmark on"/>
+		<text name="action_toggleFillmark_off" 			text="Fillmark off"/>
 	</texts>
 </l10n>

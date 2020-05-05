@@ -14,11 +14,11 @@
     </storeData>
 
     <placeableType>sellingStation</placeableType>
-    <filename>placeables/EDGE/sellingStationGeneric01.i3d</filename>
+    <filename>placeables/sellingStations/sellingStationGeneric01.i3d</filename>
     <placement testSizeX="15" testSizeZ="8" sizeX="4" sizeZ="3" useRandomYRotation="false" useManualYRotation="true" />
 
-    <sellingStation stationName="$l10n_station_shop" appearsOnPDA="true" storageRadius="0" litersForFullPriceDrop="100000" fullPriceRecoverHours="48">
-        <unloadTrigger exactFillRootNode="0|0|0" baleTriggerNode="0|0|1" />
+    <sellingStation stationName="$l10n_station_shop" appearsOnPDA="true" appearsOnStats="true" storageRadius="0" litersForFullPriceDrop="150000" fullPriceRecoverHours="52">
+        <unloadTrigger exactFillRootNode="1|0|0|0" baleTriggerNode="1|0|0|2" sellTriggerNode="1|0|0|1|2" />
 		<fillType name="wheat"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="barley"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="canola"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />

@@ -3,9 +3,10 @@
     <storeData>
         <name>$l10n_fillType_Lime</name>
         <image>$data/store/store_empty.png</image>
-        <price>1</price>
-        <canBeSold>false</canBeSold>
-        <showInStore>false</showInStore>
+        <price>5000</price>
+        <canBeSold>true</canBeSold>
+        <showInStore>true</showInStore>
+        <boughtWithFarmland>true</boughtWithFarmland>
         <lifetime>1000</lifetime>
         <rotation>0</rotation>
         <brand>EDGE</brand>
@@ -15,18 +16,22 @@
 
 	<placeableType>buyingStation</placeableType>
     <filename>placeables/BuyingStations/limeStation.i3d</filename>
-    <placement testSizeX="27" testSizeZ="20" sizeX="27" sizeZ="20" useRandomYRotation="false" useManualYRotation="true" />
-
+    <placement testSizeX="6" testSizeZ="9.5" sizeX="6" sizeZ="9.5" useRandomYRotation="false" useManualYRotation="true"/>
+    <dayNightObjects>
+        <dayNightObject node="5|0|0" visibleDay="false" visibleNight="true" intensityNight="0.6"/>
+        <dayNightObject node="6|1" visibleDay="false" visibleNight="true" intensityNight="0.6"/>
+    </dayNightObjects>
+    <clearAreas>
+        <clearArea startNode="3|0" widthNode="3|0|0" heightNode="3|0|1"/>
+    </clearAreas>
 	<buyingStation stationName="$l10n_station_lime" appearsOnPDA="true" storageRadius="0" fillSoundIdentifier="fillSound01">
-        <loadTrigger triggerNode="0|0|0|0|0" fillLitersPerSecond="1000" autoStart="true" infiniteCapacity="true" dischargeNode="0|0|0|0|1">
-            <effectNode effectClass="PipeEffect" effectNode="0|0|0|0|2|0" materialType="pipe" materialTypeId="1" fadeTime="0.5" maxBending="0" controlPoint="3.75 0 0 0"/>
-            <effectNode effectNode="0|0|0|0|2|1" materialType="smoke" materialTypeId="1" fadeTime="0.5"/>
+        <loadTrigger triggerNode="1|0|0|0|0" fillLitersPerSecond="2000" infiniteCapacity="true" dischargeNode="1|0|0|0|1">
+            <effectNode effectClass="PipeEffect" effectNode="1|0|0|0|2|0" materialType="pipe" materialTypeId="1" fadeTime="0.5" maxBending="0" controlPoint="3.75 0 0 0"/>
+            <effectNode effectNode="1|0|0|0|2|1" materialType="smoke" materialTypeId="1" fadeTime="0.5"/>
         </loadTrigger>
 		<fillType name="lime" priceScale="0.9"/>
 	</buyingStation>
-
-    <tipOcclusionUpdateArea sizeX="25" sizeZ="25" />
-
+    <tipOcclusionUpdateArea sizeX="6" sizeZ="9.5"/>
 	<animatedObjects>
         <animatedObject saveId="fillMark_01" >
             <animation duration="0.1">
@@ -41,5 +46,7 @@
             </sounds>
         </animatedObject>
     </animatedObjects>
-
+    <triggerMarkers>
+        <triggerMarker node="7" />
+    </triggerMarkers>
 </placeable>

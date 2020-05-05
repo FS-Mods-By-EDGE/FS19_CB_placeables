@@ -6,9 +6,9 @@
   </Asset>
 
   <Files>
-    <File fileId="1" filename="../textures/gfx/vhPlaster_diffuse.png"/>
-    <File fileId="2" filename="../textures/gfx/vhPlaster_normal.dds"/>
-    <File fileId="3" filename="../textures/gfx/windowLit_emissive.dds"/>
+    <File fileId="1" filename="../textures/craterBay/vhPlaster_diffuse.png"/>
+    <File fileId="2" filename="../textures/craterBay/vhPlaster_normal.dds"/>
+    <File fileId="3" filename="../textures/craterBay/windowLit_emissive.dds"/>
   </Files>
 
 

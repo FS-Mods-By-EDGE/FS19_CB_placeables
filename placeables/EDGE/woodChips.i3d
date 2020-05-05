@@ -12,9 +12,9 @@
     <File fileId="8" filename="$data/maps/textures/shared/warningStripes_diffuse.png"/>
     <File fileId="9" filename="$data/maps/textures/shared/warningStripes_normal.png"/>
     <File fileId="10" filename="$data/maps/textures/shared/warningStripes_specular.png"/>
-    <File fileId="2" filename="../textures/gfx/lumbermill_diffuse.dds"/>
-    <File fileId="3" filename="../textures/gfx/lumbermill_normal.dds"/>
-    <File fileId="4" filename="../textures/gfx/lumbermill_specular.dds"/>
+    <File fileId="2" filename="../textures/craterBay/lumbermill_diffuse.dds"/>
+    <File fileId="3" filename="../textures/craterBay/lumbermill_normal.dds"/>
+    <File fileId="4" filename="../textures/craterBay/lumbermill_specular.dds"/>
   </Files>
 
 

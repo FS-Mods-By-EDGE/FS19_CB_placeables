@@ -6,11 +6,12 @@
   </Asset>
 
   <Files>
-    <File fileId="2" filename="../../textures/southAmerican/trainUnloadingPit_diffuse.png"/>
-    <File fileId="3" filename="../../textures/southAmerican/trainUnloadingPit_normal.png"/>
-    <File fileId="4" filename="../../textures/southAmerican/trainUnloadingPit_specular.png"/>
-    <File fileId="5" filename="../../textures/southAmerican/wheatBottom_diffuse.png"/>
-    <File fileId="6" filename="../../textures/southAmerican/wheatBottom_normal.png"/>
+    <File fileId="2" filename="../textures/craterBay/trainUnloadingPit_diffuse.png"/>
+    <File fileId="3" filename="../textures/craterBay/trainUnloadingPit_normal.png"/>
+    <File fileId="4" filename="../textures/craterBay/trainUnloadingPit_specular.png"/>
+    <File fileId="5" filename="$data/fillPlanes/wheat_diffuse.dds"/>
+    <File fileId="6" filename="$data/fillPlanes/wheat_normal.dds"/>
+    <File fileId="12" filename="$data/fillPlanes/wheat_specular.dds"/>
   </Files>
 
 
@@ -18,6 +19,7 @@
     <Material name="wheat_mat" materialId="4">
       <Texture fileId="5"/>
       <Normalmap fileId="6"/>
+      <Glossmap fileId="12"/>
     </Material>
     <Material name="trainUnloadingPit_mat" materialId="5">
       <Texture fileId="2"/>

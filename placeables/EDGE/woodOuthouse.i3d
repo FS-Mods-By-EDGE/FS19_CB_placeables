@@ -9,12 +9,12 @@
     <File fileId="10" filename="$data/placeables/animalHusbandry/liquidManure_diffuse.png"/>
     <File fileId="8" filename="$data/shaders/dashboardLightsShader.xml"/>
     <File fileId="12" filename="$data/sounds/maps/fauna/us/misc/flies_buzz_multi_02_loop.wav"/>
-    <File fileId="5" filename="../textures/gfx/lightBulb_diffuse.png"/>
-    <File fileId="6" filename="../textures/gfx/lightBulb_normal.png"/>
-    <File fileId="7" filename="../textures/gfx/lightBulb_specular.png"/>
-    <File fileId="2" filename="../textures/gfx/woodOuthouse_diffuse.png"/>
-    <File fileId="3" filename="../textures/gfx/woodOuthouse_normal.png"/>
-    <File fileId="4" filename="../textures/gfx/woodOuthouse_specular.png"/>
+    <File fileId="5" filename="../textures/craterBay/lightBulb_diffuse.png"/>
+    <File fileId="6" filename="../textures/craterBay/lightBulb_normal.png"/>
+    <File fileId="7" filename="../textures/craterBay/lightBulb_specular.png"/>
+    <File fileId="2" filename="../textures/craterBay/woodOuthouse_diffuse.png"/>
+    <File fileId="3" filename="../textures/craterBay/woodOuthouse_normal.png"/>
+    <File fileId="4" filename="../textures/craterBay/woodOuthouse_specular.png"/>
     <File fileId="9" filename="$data/maps/textures/shared/light_emissive.png"/>
   </Files>
 

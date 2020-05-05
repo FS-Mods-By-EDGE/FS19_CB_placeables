@@ -6,11 +6,11 @@
   </Asset>
 
   <Files>
-    <File fileId="3" filename="../textures/gfx/bSilo_diffuse.dds"/>
-    <File fileId="4" filename="../textures/gfx/bSilo_normal.dds"/>
-    <File fileId="5" filename="../textures/gfx/bSilo_specular.dds"/>
-    <File fileId="1" filename="../textures/gfx/galvScrached_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/galvScrached_specular.dds"/>
+    <File fileId="3" filename="../textures/craterBay/bSilo_diffuse.dds"/>
+    <File fileId="4" filename="../textures/craterBay/bSilo_normal.dds"/>
+    <File fileId="5" filename="../textures/craterBay/bSilo_specular.dds"/>
+    <File fileId="1" filename="../textures/craterBay/galvScrached_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/galvScrached_specular.dds"/>
   </Files>
 
 

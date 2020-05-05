@@ -4,7 +4,7 @@
         <Export program="GIANTS Editor 64bit" version="8.2.0"/>
     </Asset>
     <Files>
-        <File fileId="2" filename="data/textures/triggers/triggerIcons_diffuse.dds"/>
+        <File fileId="2" filename="../textures/triggers/triggerIcons_diffuse.dds"/>
         <File fileId="3" filename="$data/shaders/fxCircleShader.xml"/>
     </Files>
     <Materials>

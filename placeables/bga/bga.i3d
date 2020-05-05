@@ -19,23 +19,23 @@
     <File fileId="23" filename="$data/shaders/dashboardLightsShader.xml"/>
     <File fileId="7" filename="$data/shaders/decalShader.xml"/>
     <File fileId="29" filename="$data/shaders/numberShader.xml"/>
-    <File fileId="4" filename="../textures/gfx/bgaDecals_diffuse.dds"/>
-    <File fileId="5" filename="../textures/gfx/bgaDecals_normal.dds"/>
-    <File fileId="6" filename="../textures/gfx/bgaDecals_specular.dds"/>
-    <File fileId="1" filename="../textures/gfx/bga_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/bga_normal.dds"/>
-    <File fileId="3" filename="../textures/gfx/bga_specular.dds"/>
-    <File fileId="8" filename="../textures/gfx/decalOilSlicks_diffuse.dds"/>
-    <File fileId="13" filename="../textures/gfx/manholeCover_diffuse.png"/>
-    <File fileId="14" filename="../textures/gfx/manholeCover_normal.png"/>
-    <File fileId="15" filename="../textures/gfx/manholeCover_specular.png"/>
-    <File fileId="20" filename="../textures/gfx/streetLightGlass_diffuse.png"/>
-    <File fileId="22" filename="../textures/gfx/streetLightGlass_specular.png"/>
-    <File fileId="17" filename="../textures/gfx/streetLight_diffuse.png"/>
-    <File fileId="24" filename="../textures/gfx/streetLight_emissive.png"/>
-    <File fileId="18" filename="../textures/gfx/streetLight_normal.png"/>
-    <File fileId="19" filename="../textures/gfx/streetLight_specular.png"/>
-    <File fileId="9" filename="../textures/gfx/wallDirt_diffuse.dds"/>
+    <File fileId="4" filename="../textures/craterBay/bgaDecals_diffuse.dds"/>
+    <File fileId="5" filename="../textures/craterBay/bgaDecals_normal.dds"/>
+    <File fileId="6" filename="../textures/craterBay/bgaDecals_specular.dds"/>
+    <File fileId="1" filename="../textures/craterBay/bga_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/bga_normal.dds"/>
+    <File fileId="3" filename="../textures/craterBay/bga_specular.dds"/>
+    <File fileId="8" filename="../textures/craterBay/decalOilSlicks_diffuse.dds"/>
+    <File fileId="13" filename="../textures/craterBay/manholeCover_diffuse.png"/>
+    <File fileId="14" filename="../textures/craterBay/manholeCover_normal.png"/>
+    <File fileId="15" filename="../textures/craterBay/manholeCover_specular.png"/>
+    <File fileId="20" filename="../textures/craterBay/streetLightGlass_diffuse.png"/>
+    <File fileId="22" filename="../textures/craterBay/streetLightGlass_specular.png"/>
+    <File fileId="17" filename="../textures/craterBay/streetLight_diffuse.png"/>
+    <File fileId="24" filename="../textures/craterBay/streetLight_emissive.png"/>
+    <File fileId="18" filename="../textures/craterBay/streetLight_normal.png"/>
+    <File fileId="19" filename="../textures/craterBay/streetLight_specular.png"/>
+    <File fileId="9" filename="../textures/craterBay/wallDirt_diffuse.dds"/>
     <File fileId="21" filename="$data/maps/textures/shared/default_normal.png"/>
   </Files>
 

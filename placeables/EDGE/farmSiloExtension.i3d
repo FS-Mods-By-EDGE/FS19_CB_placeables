@@ -6,8 +6,8 @@
   </Asset>
 
   <Files>
-    <File fileId="3" filename="../textures/gfx/oldSiloRoof.dds"/>
-    <File fileId="1" filename="../textures/gfx/oldSiloTank.dds"/>
+    <File fileId="3" filename="../textures/craterBay/oldSiloRoof.dds"/>
+    <File fileId="1" filename="../textures/craterBay/oldSiloTank.dds"/>
   </Files>
 
 

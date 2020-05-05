@@ -7,13 +7,13 @@
 
   <Files>
     <File fileId="7" filename="$data/shaders/decalShader.xml"/>
-    <File fileId="4" filename="../textures/gfx/bgaDecals_diffuse.dds"/>
-    <File fileId="5" filename="../textures/gfx/bgaDecals_normal.dds"/>
-    <File fileId="6" filename="../textures/gfx/bgaDecals_specular.dds"/>
-    <File fileId="1" filename="../textures/gfx/bga_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/bga_normal.dds"/>
-    <File fileId="3" filename="../textures/gfx/bga_specular.dds"/>
-    <File fileId="8" filename="../textures/gfx/decalOilSlicks_diffuse.dds"/>
+    <File fileId="4" filename="../textures/craterBay/bgaDecals_diffuse.dds"/>
+    <File fileId="5" filename="../textures/craterBay/bgaDecals_normal.dds"/>
+    <File fileId="6" filename="../textures/craterBay/bgaDecals_specular.dds"/>
+    <File fileId="1" filename="../textures/craterBay/bga_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/bga_normal.dds"/>
+    <File fileId="3" filename="../textures/craterBay/bga_specular.dds"/>
+    <File fileId="8" filename="../textures/craterBay/decalOilSlicks_diffuse.dds"/>
   </Files>
 
 

@@ -10,14 +10,14 @@
     <File fileId="17" filename="$data/maps/textures/shared/warningStripes_normal.png"/>
     <File fileId="18" filename="$data/maps/textures/shared/warningStripes_specular.png"/>
     <File fileId="4" filename="$data/shaders/vehicleShader.xml"/>
-    <File fileId="10" filename="../textures/gfx/ajTech.dds"/>
-    <File fileId="12" filename="../textures/gfx/manureHoseBlue_diffuse.dds"/>
-    <File fileId="15" filename="../textures/gfx/manureHose_diffuse.dds"/>
-    <File fileId="13" filename="../textures/gfx/manureHose_normal.dds"/>
-    <File fileId="14" filename="../textures/gfx/manureHose_specular.dds"/>
-    <File fileId="1" filename="../textures/gfx/refillTanks_diffuse.png"/>
-    <File fileId="2" filename="../textures/gfx/refillTanks_normal.png"/>
-    <File fileId="3" filename="../textures/gfx/refillTanks_specular.png"/>
+    <File fileId="10" filename="../textures/craterBay/ajTech.dds"/>
+    <File fileId="12" filename="../textures/craterBay/manureHoseBlue_diffuse.dds"/>
+    <File fileId="15" filename="../textures/craterBay/manureHose_diffuse.dds"/>
+    <File fileId="13" filename="../textures/craterBay/manureHose_normal.dds"/>
+    <File fileId="14" filename="../textures/craterBay/manureHose_specular.dds"/>
+    <File fileId="1" filename="../textures/craterBay/refillTanks_diffuse.png"/>
+    <File fileId="2" filename="../textures/craterBay/refillTanks_normal.png"/>
+    <File fileId="3" filename="../textures/craterBay/refillTanks_specular.png"/>
     <File fileId="8" filename="$data/maps/textures/shared/glassBlueTint_diffuse.dds"/>
     <File fileId="9" filename="$data/maps/textures/shared/specular.dds"/>
   </Files>

@@ -6,10 +6,10 @@
   </Asset>
 
   <Files>
-    <File fileId="10" filename="data/textures/sosnovka/siloLOD_diffuse.png"/>
-    <File fileId="2" filename="data/textures/sosnovka/silo_diffuse.png"/>
-    <File fileId="3" filename="data/textures/sosnovka/silo_normal.png"/>
-    <File fileId="5" filename="data/textures/sosnovka/silo_specular.png"/>
+    <File fileId="10" filename="../textures/craterBay/siloLOD_diffuse.png"/>
+    <File fileId="2" filename="../textures/craterBay/silo_diffuse.png"/>
+    <File fileId="3" filename="../textures/craterBay/silo_normal.png"/>
+    <File fileId="5" filename="../textures/craterBay/silo_specular.png"/>
     <File fileId="4" filename="$data/shaders/buildingShader.xml"/>
   </Files>
 

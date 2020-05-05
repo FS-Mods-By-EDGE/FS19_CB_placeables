@@ -122,17 +122,14 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
     <multiplayer supported="true"/>
     <storeItems>
         <storeItem xmlFilename="placeables/props/EdgeSign.xml"/>
-        <storeItem xmlFilename="placeables/farmBuildings/farmMansion.xml"/>
-        <storeItem xmlFilename="placeables/farmBuildings/farmStorageBarn.xml"/>
         <storeItem xmlFilename="placeables/bga/bga01.xml"/>
-        <storeItem xmlFilename="placeables/farmBuildings/farmSilo.xml"/>
         <storeItem xmlFilename="placeables/waterFillTriggers/waterFillTriggers01.xml"/>
         <storeItem xmlFilename="placeables/bga/bga02.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation01.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation02.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/LimeStation01.xml"/>
-        <storeItem xmlFilename="placeables/waterFillTriggers/waterFillTriggers02.xml"/>
+        <storeItem xmlFilename="placeables/waterFillTriggers/waterFillTrigger.xml"/>
         <storeItem xmlFilename="placeables/Extras/greenScreen.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationBales01.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationDistillery.xml"/>
@@ -143,12 +140,11 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/StrawBarn_SellingSpot/StrawBarn_SellingSpotunowned.xml"/>
         <storeItem xmlFilename="placeables/EDGE/StrawBarn_SellingSpot/StrawBarn_SellingSpot.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationWoodChips02.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStationLemonways.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStationGeneric01.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStationLemonways.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStationGeneric01.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationShop.xml"/>
         <storeItem xmlFilename="placeables/EDGE/Multi_Filling_Station/MultiFillingStationDark.xml"/>
         <storeItem xmlFilename="placeables/EDGE/Multi_Selling_Station/MultiSellingStationDark.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/Food_n_Fertilizer_Shop/FoodFertilizerShopBuy.xml"/>
         <storeItem xmlFilename="placeables/EDGE/Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"/>
         <storeItem xmlFilename="placeables/bga/bga.xml"/>
         <storeItem xmlFilename="placeables/bga/bgaExtension.xml"/>
@@ -160,8 +156,8 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/woodChips.xml"/>
         <storeItem xmlFilename="placeables/EDGE/woodCrusher.xml"/>
         <storeItem xmlFilename="placeables/EDGE/lumbermill.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStationBales.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStationWool.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStationBales.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStationWool.xml"/>
         <storeItem xmlFilename="placeables/EDGE/workshop.xml"/>
         <storeItem xmlFilename="placeables/EDGE/oldNightLight.xml"/>
         <storeItem xmlFilename="placeables/EDGE/lemon.xml"/>
@@ -190,15 +186,15 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/rock3.xml"/>
         <storeItem xmlFilename="placeables/EDGE/rock4.xml"/>
         <storeItem xmlFilename="placeables/EDGE/rock5.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStations/ss01.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStations/ss02.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStations/ss03.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStations/ss04.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStations/ss05.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/sellingStations/ss06.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss01.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss02.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss03.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss04.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss05.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss06.xml"/>
         <storeItem xmlFilename="placeables/EDGE/warehouse.xml"/>
         <storeItem xmlFilename="placeables/EDGE/waterTower.xml"/>
-        <storeItem xmlFilename="placeables/EDGE/woodenHouse.xml"/>
+        <storeItem xmlFilename="placeables/farmBuildings/woodenHouse.xml"/>
         <storeItem xmlFilename="placeables/EDGE/woodOuthouse.xml"/>
         <storeItem xmlFilename="placeables/EDGE/huntingHut.xml"/>
         <storeItem xmlFilename="placeables/EDGE/outlook.xml"/>
@@ -207,6 +203,10 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
 	<l10n filenamePrefix="modDesc/modDesc_l10n"/>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
+        <brand name="BOBS" title="Bob&apos;s Burgers" image="store/Bobs_Burgers_Logo.dds"/>
+        <brand name="BECKS" title="Beck&apos;s Brewery" image="store/Becks_Logo.dds"/>
+        <brand name="BRU" title="EDGE Industries" image="store/Bru_Logo.dds"/>
+        <brand name="LIMAGRAIN" title="Limagrain" image="store/Limagrain_Logo.dds"/>
         <brand name="AJTECH" title="AJ TECH" image="store/brand_ajTech.png"/>
     </brands>
     <!-- <l10n>

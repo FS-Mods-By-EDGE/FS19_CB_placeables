@@ -10,22 +10,22 @@
     <File fileId="24" filename="$data/maps/textures/shared/warningStripes_normal.png"/>
     <File fileId="25" filename="$data/maps/textures/shared/warningStripes_specular.png"/>
     <File fileId="21" filename="$data/shaders/dashboardLightsShader.xml"/>
-    <File fileId="9" filename="../textures/gfx/debris1_diffuse.dds"/>
-    <File fileId="10" filename="../textures/gfx/debris1_normal.dds"/>
-    <File fileId="13" filename="../textures/gfx/debris_diffuse.dds"/>
-    <File fileId="14" filename="../textures/gfx/debris_normal.dds"/>
-    <File fileId="7" filename="../textures/gfx/fruitPlane.dds"/>
-    <File fileId="6" filename="../textures/gfx/galvScrachedRust.dds"/>
-    <File fileId="5" filename="../textures/gfx/oldSiloRoof.dds"/>
-    <File fileId="3" filename="../textures/gfx/oldSiloTank.dds"/>
-    <File fileId="18" filename="../textures/gfx/oldWallLamp_diffuse.png"/>
-    <File fileId="19" filename="../textures/gfx/oldWallLamp_normal.png"/>
-    <File fileId="20" filename="../textures/gfx/oldWallLamp_specular.png"/>
-    <File fileId="11" filename="../textures/gfx/rubbleHeap_diffuse.dds"/>
-    <File fileId="12" filename="../textures/gfx/rubbleHeap_normal.dds"/>
-    <File fileId="15" filename="../textures/gfx/woodenPole_diffuse.dds"/>
-    <File fileId="16" filename="../textures/gfx/woodenPole_normal.dds"/>
-    <File fileId="17" filename="../textures/gfx/woodenPole_specular.dds"/>
+    <File fileId="9" filename="../textures/craterBay/debris1_diffuse.dds"/>
+    <File fileId="10" filename="../textures/craterBay/debris1_normal.dds"/>
+    <File fileId="13" filename="../textures/craterBay/debris_diffuse.dds"/>
+    <File fileId="14" filename="../textures/craterBay/debris_normal.dds"/>
+    <File fileId="7" filename="../textures/craterBay/fruitPlane.dds"/>
+    <File fileId="6" filename="../textures/craterBay/galvScrachedRust.dds"/>
+    <File fileId="5" filename="../textures/craterBay/oldSiloRoof.dds"/>
+    <File fileId="3" filename="../textures/craterBay/oldSiloTank.dds"/>
+    <File fileId="18" filename="../textures/craterBay/oldWallLamp_diffuse.png"/>
+    <File fileId="19" filename="../textures/craterBay/oldWallLamp_normal.png"/>
+    <File fileId="20" filename="../textures/craterBay/oldWallLamp_specular.png"/>
+    <File fileId="11" filename="../textures/craterBay/rubbleHeap_diffuse.dds"/>
+    <File fileId="12" filename="../textures/craterBay/rubbleHeap_normal.dds"/>
+    <File fileId="15" filename="../textures/craterBay/woodenPole_diffuse.dds"/>
+    <File fileId="16" filename="../textures/craterBay/woodenPole_normal.dds"/>
+    <File fileId="17" filename="../textures/craterBay/woodenPole_specular.dds"/>
     <File fileId="2" filename="$data/maps/textures/shared/default_normal.png"/>
     <File fileId="22" filename="$data/maps/textures/shared/light_emissive.png"/>
   </Files>

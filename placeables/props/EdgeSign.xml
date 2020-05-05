@@ -5,38 +5,27 @@
         <functions>
             <function>$l10n_function_EDGE_Sign</function>
         </functions>
-        <specs>
-            <capacity>50000</capacity>
-            <fillTypeCategories>FARMSILO</fillTypeCategories>
-        </specs>
         <image>store/store_EDGE Sign.dds</image>
-        <price>40000</price>
-        <dailyUpkeep>10</dailyUpkeep>
+        <price>5000</price>
         <lifetime>1000</lifetime>
         <rotation>0</rotation>
         <brand>EDGE</brand>
         <species>placeable</species>
-        <category>silos</category>
+        <category>decoration</category>
     </storeData>
     <placeableType>placeable</placeableType>
     <filename>placeables/props/EdgeSign.i3d</filename>
-    <placement testSizeX="3.6" testSizeZ="3.6" sizeX="3.6" sizeZ="3.6" useRandomYRotation="false" useManualYRotation="true"/>
+    <placement testSizeX="0.01" testSizeZ="0.01" sizeX="0.01" sizeZ="0.01" useRandomYRotation="false" useManualYRotation="true"/>
+    <incomePerHour1>10</incomePerHour1>
+    <incomePerHour2>5</incomePerHour2>
+    <incomePerHour3>2.5</incomePerHour3>
     <dayNightObjects>
-        <dayNightObject node="4|0|0|0" visibleDay="false" visibleNight="true" intensityNight="0.6"/>
+        <dayNightObject node="1|0|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityDay="1"/>
     </dayNightObjects>
-	<storage node="1|0" fillTypeCategories="FARMSILO" capacityPerFillType="50000"/>
-    <clearAreas>
-        <clearArea startNode="2|0" widthNode="2|1" heightNode="2|2"/>
-    </clearAreas>
-    <leveling requireLeveling="true" maxSmoothDistance="10" maxSlope="75" maxEdgeAngle="30">
-        <levelAreas>
-            <levelArea startNode="3|0" widthNode="3|0|0" heightNode="3|0|1" groundType="asphalt"/>
-        </levelAreas>
-    </leveling>
     <seasons>
         <maskAreas>
             <!-- needs no mask -->
         </maskAreas>
     </seasons>
-    <tipOcclusionUpdateArea sizeX="3.6" sizeZ="3.6"/>
+    <tipOcclusionUpdateArea sizeX="0" sizeZ="0"/>
 </placeable>

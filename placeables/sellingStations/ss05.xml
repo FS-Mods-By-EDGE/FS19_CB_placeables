@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable>
  <storeData>
-  <name>$l10n_shopItem_ss05</name>
-  <functions>
-   <function>$l10n_function_pss</function>
-  </functions>
-  <specs>
-   <fillTypes>potato sugarBeet sugarCane</fillTypes>
-  </specs>
-  <image>store/store_sellingStation.png</image>
-  <price>35000</price>
-  <dailyUpkeep>35</dailyUpkeep>
-  <lifetime>1000</lifetime>
-  <rotation>0</rotation>
-  <brand>AJTECH</brand>
-  <species>placeable</species>
-  <category>silos</category>
-  <vertexBufferMemoryUsage>16296</vertexBufferMemoryUsage>
-  <indexBufferMemoryUsage>1872</indexBufferMemoryUsage>
-  <textureMemoryUsage>1529480</textureMemoryUsage>
-  <instanceVertexBufferMemoryUsage>0</instanceVertexBufferMemoryUsage>
-  <instanceIndexBufferMemoryUsage>0</instanceIndexBufferMemoryUsage>
+     <name>$l10n_shopItem_ss05</name>
+     <functions>
+         <function>$l10n_function_pss</function>
+     </functions>
+     <specs>
+         <fillTypes>potato sugarBeet sugarCane</fillTypes>
+     </specs>
+     <image>store/store_sellingStation.png</image>
+     <price>35000</price>
+     <dailyUpkeep>35</dailyUpkeep>
+     <lifetime>1000</lifetime>
+     <rotation>0</rotation>
+     <brand>AJTECH</brand>
+     <species>placeable</species>
+     <category>silos</category>
  </storeData>
 
  <placeableType>sellingStation</placeableType>

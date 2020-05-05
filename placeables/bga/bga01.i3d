@@ -8,9 +8,9 @@
   <Files>
     <File fileId="6" filename="$data/shaders/numberShader.xml"/>
     <File fileId="5" filename="$data/shared/numbers_diffuse.png"/>
-    <File fileId="2" filename="../../textures/southAmerican/weightDisplay_diffuse.png"/>
-    <File fileId="3" filename="../../textures/southAmerican/weightDisplay_normal.png"/>
-    <File fileId="4" filename="../../textures/southAmerican/weightDisplay_specular.png"/>
+    <File fileId="2" filename="../textures/craterBay/weightDisplay_diffuse.png"/>
+    <File fileId="3" filename="../textures/craterBay/weightDisplay_normal.png"/>
+    <File fileId="4" filename="../textures/craterBay/weightDisplay_specular.png"/>
   </Files>
 
 

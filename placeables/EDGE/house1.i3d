@@ -6,8 +6,8 @@
   </Asset>
 
   <Files>
-    <File fileId="1" filename="../textures/gfx/villageHouse.dds"/>
-    <File fileId="3" filename="../textures/gfx/windowLit_emissive.dds"/>
+    <File fileId="1" filename="../textures/craterBay/villageHouse.dds"/>
+    <File fileId="3" filename="../textures/craterBay/windowLit_emissive.dds"/>
   </Files>
 
 

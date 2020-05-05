@@ -7,10 +7,10 @@
 
   <Files>
     <File fileId="4" filename="$data/shaders/vehicleShader.xml"/>
-    <File fileId="10" filename="../textures/gfx/ajTech.dds"/>
-    <File fileId="1" filename="../textures/gfx/refillTanks_diffuse.png"/>
-    <File fileId="2" filename="../textures/gfx/refillTanks_normal.png"/>
-    <File fileId="3" filename="../textures/gfx/refillTanks_specular.png"/>
+    <File fileId="10" filename="../textures/craterBay/ajTech.dds"/>
+    <File fileId="1" filename="../textures/craterBay/refillTanks_diffuse.png"/>
+    <File fileId="2" filename="../textures/craterBay/refillTanks_normal.png"/>
+    <File fileId="3" filename="../textures/craterBay/refillTanks_specular.png"/>
     <File fileId="8" filename="$data/maps/textures/shared/glassBlueTint_diffuse.dds"/>
     <File fileId="9" filename="$data/maps/textures/shared/specular.dds"/>
   </Files>

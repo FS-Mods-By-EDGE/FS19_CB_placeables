@@ -8,24 +8,24 @@
   <Files>
     <File fileId="18" filename="$data/shaders/dashboardLightsShader.xml"/>
     <File fileId="23" filename="$data/shaders/lightBeamShader.xml"/>
-    <File fileId="28" filename="../textures/gfx/brushedAluminium.dds"/>
-    <File fileId="30" filename="../textures/gfx/fusebox.dds"/>
-    <File fileId="22" filename="../textures/gfx/light01.dds"/>
-    <File fileId="21" filename="../textures/gfx/lightEmissive.dds"/>
-    <File fileId="15" filename="../textures/gfx/lightSwitch.dds"/>
-    <File fileId="27" filename="../textures/gfx/lightSwitchDark.dds"/>
-    <File fileId="25" filename="../textures/gfx/lightsSign.dds"/>
-    <File fileId="19" filename="../textures/gfx/neonLight.dds"/>
-    <File fileId="32" filename="../textures/gfx/ruberoid.dds"/>
-    <File fileId="29" filename="../textures/gfx/skylightsSign.dds"/>
-    <File fileId="12" filename="../textures/gfx/tableSaw_diffuse.dds"/>
-    <File fileId="13" filename="../textures/gfx/tableSaw_normal.dds"/>
-    <File fileId="14" filename="../textures/gfx/tableSaw_specular.dds"/>
-    <File fileId="7" filename="../textures/gfx/warehouseShutterFrame_diffuse.dds"/>
-    <File fileId="9" filename="../textures/gfx/warehouseShutters_diffuse.dds"/>
-    <File fileId="10" filename="../textures/gfx/warehouseShutters_normal.dds"/>
-    <File fileId="1" filename="../textures/gfx/warehouse_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/warehouse_normal.dds"/>
+    <File fileId="28" filename="../textures/craterBay/brushedAluminium.dds"/>
+    <File fileId="30" filename="../textures/craterBay/fusebox.dds"/>
+    <File fileId="22" filename="../textures/craterBay/light01.dds"/>
+    <File fileId="21" filename="../textures/craterBay/lightEmissive.dds"/>
+    <File fileId="15" filename="../textures/craterBay/lightSwitch.dds"/>
+    <File fileId="27" filename="../textures/craterBay/lightSwitchDark.dds"/>
+    <File fileId="25" filename="../textures/craterBay/lightsSign.dds"/>
+    <File fileId="19" filename="../textures/craterBay/neonLight.dds"/>
+    <File fileId="32" filename="../textures/craterBay/ruberoid.dds"/>
+    <File fileId="29" filename="../textures/craterBay/skylightsSign.dds"/>
+    <File fileId="12" filename="../textures/craterBay/tableSaw_diffuse.dds"/>
+    <File fileId="13" filename="../textures/craterBay/tableSaw_normal.dds"/>
+    <File fileId="14" filename="../textures/craterBay/tableSaw_specular.dds"/>
+    <File fileId="7" filename="../textures/craterBay/warehouseShutterFrame_diffuse.dds"/>
+    <File fileId="9" filename="../textures/craterBay/warehouseShutters_diffuse.dds"/>
+    <File fileId="10" filename="../textures/craterBay/warehouseShutters_normal.dds"/>
+    <File fileId="1" filename="../textures/craterBay/warehouse_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/warehouse_normal.dds"/>
     <File fileId="16" filename="$data/maps/textures/shared/defaultPlastic_specular.dds"/>
     <File fileId="4" filename="$data/maps/textures/shared/default_normal.dds"/>
     <File fileId="3" filename="$data/maps/textures/shared/window02_diffuse.dds"/>

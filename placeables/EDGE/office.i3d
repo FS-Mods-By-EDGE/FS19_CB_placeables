@@ -7,11 +7,11 @@
 
   <Files>
     <File fileId="9" filename="$data/shaders/dashboardLightsShader.xml"/>
-    <File fileId="1" filename="../textures/gfx/office01a_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/office01a_specular.dds"/>
-    <File fileId="3" filename="../textures/gfx/smallWallLight_diffuse.png"/>
-    <File fileId="4" filename="../textures/gfx/smallWallLight_normal.png"/>
-    <File fileId="5" filename="../textures/gfx/smallWallLight_specular.png"/>
+    <File fileId="1" filename="../textures/craterBay/office01a_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/office01a_specular.dds"/>
+    <File fileId="3" filename="../textures/craterBay/smallWallLight_diffuse.png"/>
+    <File fileId="4" filename="../textures/craterBay/smallWallLight_normal.png"/>
+    <File fileId="5" filename="../textures/craterBay/smallWallLight_specular.png"/>
     <File fileId="7" filename="$data/maps/textures/shared/default_normal.dds"/>
     <File fileId="10" filename="$data/maps/textures/shared/light_emissive.png"/>
     <File fileId="6" filename="$data/maps/textures/shared/window02_diffuse.png"/>

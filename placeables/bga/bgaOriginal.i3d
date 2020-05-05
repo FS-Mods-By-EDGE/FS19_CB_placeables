@@ -10,21 +10,21 @@
         <File fileId="5" filename="$data/shaders/numberShader.xml"/>
         <File fileId="4" filename="$data/shared/numbers_diffuse.png"/>
         <File fileId="13" filename="$data/sounds/tools/mixer/silage_mixer_loop_01.ogg"/>
-        <File fileId="23" filename="data/textures/sosnovka/bgpWetLOD_diffuse.png"/>
-        <File fileId="14" filename="data/textures/sosnovka/bgpWet_diffuse.png"/>
-        <File fileId="15" filename="data/textures/sosnovka/bgpWet_normal.png"/>
-        <File fileId="16" filename="data/textures/sosnovka/bgpWet_specular.png"/>
-        <File fileId="8" filename="data/textures/sosnovka/flieglDecal_diffuse.png"/>
-        <File fileId="1" filename="data/textures/sosnovka/flieglRondomat_diffuse.png"/>
-        <File fileId="2" filename="data/textures/sosnovka/flieglRondomat_normal.png"/>
-        <File fileId="3" filename="data/textures/sosnovka/flieglRondomat_specular.png"/>
-        <File fileId="10" filename="data/textures/sosnovka/liquidManure_diffuse.png"/>
-        <File fileId="11" filename="data/textures/sosnovka/liquidManure_normal.png"/>
-        <File fileId="12" filename="data/textures/sosnovka/liquidManure_specular.png"/>
-        <File fileId="27" filename="data/textures/sosnovka/siloLOD_diffuse.png"/>
-        <File fileId="24" filename="data/textures/sosnovka/silo_diffuse.png"/>
-        <File fileId="25" filename="data/textures/sosnovka/silo_normal.png"/>
-        <File fileId="26" filename="data/textures/sosnovka/silo_specular.png"/>
+        <File fileId="23" filename="../textures/craterBay/bgpWetLOD_diffuse.png"/>
+        <File fileId="14" filename="../textures/craterBay/bgpWet_diffuse.png"/>
+        <File fileId="15" filename="../textures/craterBay/bgpWet_normal.png"/>
+        <File fileId="16" filename="../textures/craterBay/bgpWet_specular.png"/>
+        <File fileId="8" filename="../textures/craterBay/flieglDecal_diffuse.png"/>
+        <File fileId="1" filename="../textures/craterBay/flieglRondomat_diffuse.png"/>
+        <File fileId="2" filename="../textures/craterBay/flieglRondomat_normal.png"/>
+        <File fileId="3" filename="../textures/craterBay/flieglRondomat_specular.png"/>
+        <File fileId="10" filename="../textures/craterBay/liquidManure_diffuse.png"/>
+        <File fileId="11" filename="../textures/craterBay/liquidManure_normal.png"/>
+        <File fileId="12" filename="../textures/craterBay/liquidManure_specular.png"/>
+        <File fileId="27" filename="../textures/craterBay/siloLOD_diffuse.png"/>
+        <File fileId="24" filename="../textures/craterBay/silo_diffuse.png"/>
+        <File fileId="25" filename="../textures/craterBay/silo_normal.png"/>
+        <File fileId="26" filename="../textures/craterBay/silo_specular.png"/>
     </Files>
     <Materials>
         <Material name="flieglRondomat_mat" materialId="215">

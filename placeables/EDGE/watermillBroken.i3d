@@ -6,9 +6,9 @@
   </Asset>
 
   <Files>
-    <File fileId="1" filename="../textures/gfx/watermill_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/watermill_normal.dds"/>
-    <File fileId="3" filename="../textures/gfx/watermill_specular.dds"/>
+    <File fileId="1" filename="../textures/craterBay/watermill_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/watermill_normal.dds"/>
+    <File fileId="3" filename="../textures/craterBay/watermill_specular.dds"/>
   </Files>
 
 

@@ -12,33 +12,33 @@
     <File fileId="29" filename="$data/placeables/animalHusbandry/strawAlpha_diffuse.png"/>
     <File fileId="28" filename="$data/placeables/animalHusbandry/straw_diffuse.png"/>
     <File fileId="10" filename="$data/shaders/dashboardLightsShader.xml"/>
-    <File fileId="18" filename="../textures/gfx/baleGrass_diffuse.dds"/>
-    <File fileId="24" filename="../textures/gfx/baleStraw_diffuse.dds"/>
-    <File fileId="19" filename="../textures/gfx/baleStraw_normal.dds"/>
-    <File fileId="20" filename="../textures/gfx/bale_specular.dds"/>
-    <File fileId="4" filename="../textures/gfx/brownWood_diffuse.dds"/>
-    <File fileId="5" filename="../textures/gfx/brownWood_normal.dds"/>
-    <File fileId="6" filename="../textures/gfx/brownWood_specular.dds"/>
-    <File fileId="7" filename="../textures/gfx/buildingsWindows01_diffuse.dds"/>
-    <File fileId="11" filename="../textures/gfx/buildingsWindows01_emissive.dds"/>
-    <File fileId="8" filename="../textures/gfx/buildingsWindows01_normal.dds"/>
-    <File fileId="9" filename="../textures/gfx/buildingsWindows01_specular.dds"/>
-    <File fileId="1" filename="../textures/gfx/farmShack_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/farmShack_normal.dds"/>
-    <File fileId="3" filename="../textures/gfx/farmShack_specular.dds"/>
-    <File fileId="13" filename="../textures/gfx/hayBlower_diffuse.dds"/>
-    <File fileId="14" filename="../textures/gfx/hayBlower_normal.dds"/>
-    <File fileId="15" filename="../textures/gfx/hayBlower_specular.dds"/>
-    <File fileId="25" filename="../textures/gfx/hayDecal.dds"/>
-    <File fileId="21" filename="../textures/gfx/roundbaleSilage_diffuse.dds"/>
-    <File fileId="22" filename="../textures/gfx/roundbaleSilage_normal.dds"/>
-    <File fileId="23" filename="../textures/gfx/roundbaleSilage_specular.dds"/>
-    <File fileId="16" filename="../textures/gfx/rustyPlate.dds"/>
-    <File fileId="30" filename="../textures/gfx/smallWallLight_diffuse.png"/>
-    <File fileId="31" filename="../textures/gfx/smallWallLight_normal.png"/>
-    <File fileId="32" filename="../textures/gfx/smallWallLight_specular.png"/>
-    <File fileId="27" filename="../textures/gfx/strawAlpha_diffuse.dds"/>
-    <File fileId="26" filename="../textures/gfx/straw_diffuse.dds"/>
+    <File fileId="18" filename="../textures/craterBay/baleGrass_diffuse.dds"/>
+    <File fileId="24" filename="../textures/craterBay/baleStraw_diffuse.dds"/>
+    <File fileId="19" filename="../textures/craterBay/baleStraw_normal.dds"/>
+    <File fileId="20" filename="../textures/craterBay/bale_specular.dds"/>
+    <File fileId="4" filename="../textures/craterBay/brownWood_diffuse.dds"/>
+    <File fileId="5" filename="../textures/craterBay/brownWood_normal.dds"/>
+    <File fileId="6" filename="../textures/craterBay/brownWood_specular.dds"/>
+    <File fileId="7" filename="../textures/craterBay/buildingsWindows01_diffuse.dds"/>
+    <File fileId="11" filename="../textures/craterBay/buildingsWindows01_emissive.dds"/>
+    <File fileId="8" filename="../textures/craterBay/buildingsWindows01_normal.dds"/>
+    <File fileId="9" filename="../textures/craterBay/buildingsWindows01_specular.dds"/>
+    <File fileId="1" filename="../textures/craterBay/farmShack_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/farmShack_normal.dds"/>
+    <File fileId="3" filename="../textures/craterBay/farmShack_specular.dds"/>
+    <File fileId="13" filename="../textures/craterBay/hayBlower_diffuse.dds"/>
+    <File fileId="14" filename="../textures/craterBay/hayBlower_normal.dds"/>
+    <File fileId="15" filename="../textures/craterBay/hayBlower_specular.dds"/>
+    <File fileId="25" filename="../textures/craterBay/hayDecal.dds"/>
+    <File fileId="21" filename="../textures/craterBay/roundbaleSilage_diffuse.dds"/>
+    <File fileId="22" filename="../textures/craterBay/roundbaleSilage_normal.dds"/>
+    <File fileId="23" filename="../textures/craterBay/roundbaleSilage_specular.dds"/>
+    <File fileId="16" filename="../textures/craterBay/rustyPlate.dds"/>
+    <File fileId="30" filename="../textures/craterBay/smallWallLight_diffuse.png"/>
+    <File fileId="31" filename="../textures/craterBay/smallWallLight_normal.png"/>
+    <File fileId="32" filename="../textures/craterBay/smallWallLight_specular.png"/>
+    <File fileId="27" filename="../textures/craterBay/strawAlpha_diffuse.dds"/>
+    <File fileId="26" filename="../textures/craterBay/straw_diffuse.dds"/>
     <File fileId="34" filename="$data/maps/textures/shared/default_normal.dds"/>
     <File fileId="36" filename="$data/maps/textures/shared/light_emissive.png"/>
     <File fileId="33" filename="$data/maps/textures/shared/window02_diffuse.png"/>

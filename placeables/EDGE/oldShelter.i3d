@@ -6,10 +6,10 @@
   </Asset>
 
   <Files>
-    <File fileId="4" filename="../textures/gfx/cgRoof_diffuse.dds"/>
-    <File fileId="5" filename="../textures/gfx/cgRoof_normal.dds"/>
-    <File fileId="7" filename="../textures/gfx/fadedWood.dds"/>
-    <File fileId="1" filename="../textures/gfx/oldMetal.dds"/>
+    <File fileId="4" filename="../textures/craterBay/cgRoof_diffuse.dds"/>
+    <File fileId="5" filename="../textures/craterBay/cgRoof_normal.dds"/>
+    <File fileId="7" filename="../textures/craterBay/fadedWood.dds"/>
+    <File fileId="1" filename="../textures/craterBay/oldMetal.dds"/>
   </Files>
 
 

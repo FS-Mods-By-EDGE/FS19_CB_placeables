@@ -7,18 +7,18 @@
 
   <Files>
     <File fileId="16" filename="$data/shaders/dashboardLightsShader.xml"/>
-    <File fileId="7" filename="../textures/gfx/buildingDetails_diffuse.dds"/>
-    <File fileId="8" filename="../textures/gfx/buildingDetails_normal.dds"/>
-    <File fileId="9" filename="../textures/gfx/buildingDetails_specular.dds"/>
-    <File fileId="4" filename="../textures/gfx/buildingWindows_diffuse.dds"/>
-    <File fileId="5" filename="../textures/gfx/buildingWindows_normal.dds"/>
-    <File fileId="6" filename="../textures/gfx/buildingWindows_specular.dds"/>
-    <File fileId="1" filename="../textures/gfx/gasStationBuilding_diffuse.dds"/>
-    <File fileId="2" filename="../textures/gfx/gasStationBuilding_normal.dds"/>
-    <File fileId="3" filename="../textures/gfx/gasStationBuilding_specular.dds"/>
-    <File fileId="10" filename="../textures/gfx/smallWallLight_diffuse.png"/>
-    <File fileId="11" filename="../textures/gfx/smallWallLight_normal.png"/>
-    <File fileId="12" filename="../textures/gfx/smallWallLight_specular.png"/>
+    <File fileId="7" filename="../textures/craterBay/buildingDetails_diffuse.dds"/>
+    <File fileId="8" filename="../textures/craterBay/buildingDetails_normal.dds"/>
+    <File fileId="9" filename="../textures/craterBay/buildingDetails_specular.dds"/>
+    <File fileId="4" filename="../textures/craterBay/buildingWindows_diffuse.dds"/>
+    <File fileId="5" filename="../textures/craterBay/buildingWindows_normal.dds"/>
+    <File fileId="6" filename="../textures/craterBay/buildingWindows_specular.dds"/>
+    <File fileId="1" filename="../textures/craterBay/gasStationBuilding_diffuse.dds"/>
+    <File fileId="2" filename="../textures/craterBay/gasStationBuilding_normal.dds"/>
+    <File fileId="3" filename="../textures/craterBay/gasStationBuilding_specular.dds"/>
+    <File fileId="10" filename="../textures/craterBay/smallWallLight_diffuse.png"/>
+    <File fileId="11" filename="../textures/craterBay/smallWallLight_normal.png"/>
+    <File fileId="12" filename="../textures/craterBay/smallWallLight_specular.png"/>
     <File fileId="14" filename="$data/maps/textures/shared/default_normal.dds"/>
     <File fileId="17" filename="$data/maps/textures/shared/light_emissive.png"/>
     <File fileId="13" filename="$data/maps/textures/shared/window02_diffuse.png"/>

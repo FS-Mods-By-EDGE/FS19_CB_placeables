@@ -11,9 +11,9 @@
     <File fileId="7" filename="$data/maps/textures/terrain/grassDirtDE01_diffuse.png"/>
     <File fileId="8" filename="$data/maps/textures/terrain/grassDirtDE01_normal.png"/>
     <File fileId="4" filename="$data/shaders/triPlanarShader.xml"/>
-    <File fileId="1" filename="../textures/gfx/rocksSet01_diffuse.png"/>
-    <File fileId="2" filename="../textures/gfx/rocksSet01_normal.png"/>
-    <File fileId="3" filename="../textures/gfx/rocksSet01_specular.png"/>
+    <File fileId="1" filename="../textures/craterBay/rocksSet01_diffuse.png"/>
+    <File fileId="2" filename="../textures/craterBay/rocksSet01_normal.png"/>
+    <File fileId="3" filename="../textures/craterBay/rocksSet01_specular.png"/>
   </Files>
 
 

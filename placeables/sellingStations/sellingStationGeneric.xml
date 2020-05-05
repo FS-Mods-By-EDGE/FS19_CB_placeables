@@ -14,7 +14,7 @@
     </storeData>
 
     <placeableType>sellingStation</placeableType>
-    <filename>placeables/sellingStations/sellingStationGeneric.i3d</filename>
+    <filename>placeables/sellingStations/sellingStationGeneric01.i3d</filename>
     <placement testSizeX="15" testSizeZ="8" sizeX="4" sizeZ="3" useRandomYRotation="false" useManualYRotation="true" />
 
     <sellingStation stationName="$l10n_shopItem_sellingStation" appearsOnPDA="true" storageRadius="0" litersForFullPriceDrop="100000" fullPriceRecoverHours="48">
@@ -29,5 +29,7 @@
 		<fillType name="sugarBeet"        priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
 		<fillType name="sugarCane"        priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="oat"              priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
+        <fillType name="poppy"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
+        <fillType name="hemp"             priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
     </sellingStation>
 </placeable>

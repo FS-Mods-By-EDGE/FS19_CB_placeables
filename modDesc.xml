@@ -127,7 +127,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/bga/bga02.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation01.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation02.xml"/>
-        <storeItem xmlFilename="placeables/BuyingStations/gasStation.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/LimeStation.xml"/>
         <storeItem xmlFilename="placeables/waterFillTriggers/waterFillTrigger.xml"/>
         <storeItem xmlFilename="placeables/Extras/greenScreen.xml"/>
@@ -186,12 +185,12 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/rock3.xml"/>
         <storeItem xmlFilename="placeables/EDGE/rock4.xml"/>
         <storeItem xmlFilename="placeables/EDGE/rock5.xml"/>
-        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss01.xml"/>
-        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss02.xml"/>
-        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss03.xml"/>
-        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss04.xml"/>
-        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss05.xml"/>
-        <storeItem xmlFilename="placeables/sellingStations/sellingStations/ss06.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/ss01.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/ss02.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/ss03.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/ss04.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/ss05.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/ss06.xml"/>
         <storeItem xmlFilename="placeables/EDGE/warehouse.xml"/>
         <storeItem xmlFilename="placeables/EDGE/waterTower.xml"/>
         <storeItem xmlFilename="placeables/farmBuildings/woodenHouse.xml"/>

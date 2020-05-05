@@ -18,7 +18,7 @@
     <placement testSizeX="1" testSizeZ="1" sizeX="1" sizeZ="1" useRandomYRotation="false" useManualYRotation="true" />
 
     <sellingStation stationName="$l10n_station_sawmill" appearsOnPDA="true" storageRadius="0" litersForFullPriceDrop="100000" fullPriceRecoverHours="48" hotspotTextOffset="0px 36px">
-        <unloadTrigger exactFillRootNode="0|0|0|0|0" baleTriggerNode="0|0|0|0|1"/>
+        <unloadTrigger exactFillRootNode="0|0|0|0|0"/>
         <fillType name="woodChips" priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
     </sellingStation>
 </placeable>

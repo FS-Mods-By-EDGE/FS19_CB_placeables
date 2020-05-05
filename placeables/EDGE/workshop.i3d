@@ -128,7 +128,7 @@
     <File fileId="105" filename="../textures/craterBay/weldingMask_normal.dds"/>
     <File fileId="106" filename="../textures/craterBay/weldingMask_specular.dds"/>
     <File fileId="99" filename="../textures/craterBay/workTopVice.dds"/>
-    <File fileId="140" filename="$data/maps/textures/shared/default_normal.dds"/>
+    <File fileId="140" filename="$data/shared/default_normal.dds"/>
     <File fileId="142" filename="$data/maps/textures/shared/warningStripes_diffuse.png"/>
     <File fileId="143" filename="$data/maps/textures/shared/warningStripes_normal.png"/>
     <File fileId="144" filename="$data/maps/textures/shared/warningStripes_specular.png"/>

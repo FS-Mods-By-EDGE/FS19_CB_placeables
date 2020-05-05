@@ -6,7 +6,7 @@
   </Asset>
 
   <Files>
-    <File fileId="2" filename="../textures/triggers/triggerIcons_diffuse.dds"/>
+    <File fileId="2" filename="../TriggerIcons/data/textures/triggers/triggerIcons_diffuse.dds"/>
     <File fileId="3" filename="$data/shaders/fxCircleShader.xml"/>
   </Files>
 

@@ -52,11 +52,11 @@
     <File fileId="4" filename="../textures/craterBay/woodenHouseGlass_specular.png"/>
     <File fileId="1" filename="../textures/craterBay/woodenHouse_diffuse.png"/>
     <File fileId="2" filename="../textures/craterBay/woodenHouse_specular.png"/>
-    <File fileId="7" filename="$data/maps/textures/shared/defaultPlastic_specular.png"/>
-    <File fileId="18" filename="$data/maps/textures/shared/default_normal.png"/>
-    <File fileId="13" filename="$data/maps/textures/shared/light_emissive.png"/>
-    <File fileId="17" filename="$data/maps/textures/shared/window02_diffuse.png"/>
-    <File fileId="19" filename="$data/maps/textures/shared/window02_specular.png"/>
+    <File fileId="7" filename="$data/shared/defaultPlastic_specular.png"/>
+    <File fileId="18" filename="$data/shared/default_normal.png"/>
+    <File fileId="13" filename="../textures/craterBay/lightEmissive.png"/>
+    <File fileId="17" filename="$data/shared/window02_diffuse.png"/>
+    <File fileId="19" filename="$data/shared/window02_specular.png"/>
   </Files>
 
 

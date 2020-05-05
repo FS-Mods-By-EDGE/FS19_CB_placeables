@@ -53,7 +53,7 @@
   <animatedObject saveId="workshopDoors" >
    <controls triggerNode="1|0" posAction="ACTIVATE_HANDTOOL" posText="action_openCloseDoors" negText="action_openCloseDoors" />
    <sounds>
-    <moving file="maps/sounds/creakyGate.wav" loops="1" linkNode="1|0" volume="0.8" radius="25" innerRadius="3" fadeOut="0.25"/>
+    <moving file="placeables/sounds/creakyGate.ogg" loops="1" linkNode="1|0" volume="0.8" radius="25" innerRadius="3" fadeOut="0.25"/>
     <posEnd file="$data/sounds/prefab/gate/gate_opened.wav" linkNode="1|0" volume="0.1" radius="25" innerRadius="3" />
     <negEnd file="$data/sounds/prefab/gate/gate_closed.wav" linkNode="1|0" volume="0.7" radius="25" innerRadius="3" />
    </sounds>

@@ -200,6 +200,408 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/watermillBroken.xml"/>
     </storeItems>
 	<l10n filenamePrefix="modDesc/modDesc_l10n"/>
+    <l10n>
+     <text name="ssvsGrains">
+      <en>Vehicle Shop Grains</en>
+      <de>Fahrzeug-Shop Körner</de>
+      <fr>Grains d'atelier de véhicules</fr>
+     </text>
+     <text name="shopItem_ss01">
+      <en>Sweet Shop</en>
+      <de>Süßwarenladen</de>
+      <fr>Confiserie</fr>
+     </text>
+     <text name="shopItem_ss02">
+      <en>Windmill</en>
+      <de>Windmühle</de>
+      <fr>Moulin à vent</fr>
+     </text>
+     <text name="shopItem_ss03">
+      <en>Bakery</en>
+      <de>Bäckerei</de>
+      <fr>Boulangerie</fr>
+     </text>
+     <text name="shopItem_ss04">
+      <en>Dairy</en>
+      <de>Molkerei</de>
+      <fr>laitière</fr>
+     </text>
+     <text name="shopItem_ss05">
+      <en>Root Crops</en>
+      <de>Wurzelgemüse</de>
+      <fr>Racines</fr>
+     </text>
+     <text name="shopItem_ss06">
+      <en>Garden Centre</en>
+      <de>Gartencenter</de>
+      <fr>Centre du jardin</fr>
+     </text>
+     <text name="shopItem_ssWoodChips">
+      <en>Wood Chips Sell Point</en>
+      <de>Hackschnitzel Verkaufspunkt</de>
+      <fr>Point de vente de copeaux de bois</fr>
+     </text>
+     <text name="shopItem_ssBales">
+      <en>Straw Barn</en>
+      <de>Strohscheune</de>
+      <fr>Grange de paille</fr>
+     </text>
+     <text name="shopItem_rock1">
+      <en>Rock 1</en>
+      <de>Felsen 1</de>
+      <fr>Roche 1</fr>
+     </text>
+     <text name="shopItem_rock2">
+      <en>Rock 2</en>
+      <de>Felsen 2</de>
+      <fr>Roche 2</fr>
+     </text>
+     <text name="shopItem_rock3">
+      <en>Rock 3</en>
+      <de>Felsen 3</de>
+      <fr>Roche 3</fr>
+     </text>
+     <text name="shopItem_rock4">
+      <en>Rock 4</en>
+      <de>Felsen 4</de>
+      <fr>Roche 4</fr>
+     </text>
+     <text name="shopItem_rock5">
+      <en>Rock 5</en>
+      <de>Felsen 5</de>
+      <fr>Roche 5</fr>
+     </text>
+     <text name="shopItem_liquidStorage">
+      <en>Liquid Storage</en>
+      <de>Flüssigkeitsspeicherung</de>
+      <fr>Stockage liquide</fr>
+     </text>
+     <text name="shopItem_liquidStorageExtension">
+      <en>Liquid Storage Extension</en>
+      <de>Flüssigkeitsspeichererweiterung</de>
+      <fr>Extension de stockage de liquide</fr>
+     </text>
+     <text name="shopItem_house1">
+      <en>Brick Stone House</en>
+      <de>Backsteinhaus</de>
+      <fr>Maison en pierre de brique</fr>
+     </text>
+     <text name="shopItem_house2">
+      <en>Light Brown House</en>
+      <de>Hellbraunes Haus</de>
+      <fr>Maison marron clair</fr>
+     </text>
+     <text name="shopItem_house3">
+      <en>Old Red Brick House</en>
+      <de>Altes Haus aus rotem Backstein</de>
+      <fr>Ancienne maison en brique rouge</fr>
+     </text>
+     <text name="shopItem_smallBGA">
+      <en>Small BGA</en>
+      <de>Kleine BGA</de>
+      <fr>Petit BGA</fr>
+     </text>
+     <text name="shopItem_bgaExtension">
+      <en>BGA Digestate Extension Tank</en>
+      <de>BGA Verdauen Ausgleichsbehälter</de>
+      <fr>BGA Réservoir d'extension de digestat</fr>
+     </text>
+     <text name="shopItem_grainSilo">
+      <en>Grain Silo</en>
+      <de>Getreidesilo</de>
+      <fr>Silo à grains</fr>
+     </text>
+     <text name="shopItem_grainSiloExtension">
+      <en>Grain Silo Extension</en>
+      <de>Getreidesiloverlängerung</de>
+      <fr>Extension de silo à grains</fr>
+     </text>
+     <text name="shopItem_woodOuthouse">
+      <en>Wooden Outhouse</en>
+      <de>Nebengebäude aus Holz</de>
+      <fr>Dépendance en bois</fr>
+     </text>
+     <text name="shopItem_oldShelter">
+      <en>Old Rundown Shelter</en>
+      <de>Alter Rundown Schutz</de>
+      <fr>Ancien abri délabré</fr>
+     </text>
+     <text name="shopItem_oldBaleShelter">
+      <en>Old Bale Shelter</en>
+      <de>Alt Ballenschutz</de>
+      <fr>Vieille Abri pour balles</fr>
+     </text>
+     <text name="shopItem_windmill">
+      <en>Windmill</en>
+      <de>Windmühle</de>
+      <fr>Moulin à vent</fr>
+     </text>
+     <text name="shopItem_bigFactory">
+      <en>Big Factory</en>
+      <de>Große Fabrik</de>
+      <fr>Grande usine</fr>
+     </text>
+     <text name="shopItem_watermill">
+      <en>Watermill</en>
+      <de>Wassermühle</de>
+      <fr>Moulin à eau</fr>
+     </text>
+     <text name="shopItem_watermillBroken">
+      <en>Broken Watermill</en>
+      <de>Gebrochene Wassermühle</de>
+      <fr>Moulin à eau cassé</fr>
+     </text>
+     <text name="shopItem_woodCrusher">
+      <en>Wood Crusher direct sell point</en>
+      <de>Direktverkaufsargument von Holzbrecher</de>
+      <fr>Point de vente directe de broyeur de bois</fr>
+     </text>
+     <text name="shopItem_oldNightLight">
+      <en>Old Night Light</en>
+      <de>Altes Nachtlicht</de>
+      <fr>Vieille lumière de nuit</fr>
+     </text>
+     <text name="shopItem_huntingHut">
+      <en>Hunting Hut</en>
+      <de>Jagdhütte</de>
+      <fr>Cabane de chasse</fr>
+     </text>
+     <text name="shopItem_outlook">
+      <en>Outlook</en>
+      <de>Ausblick</de>
+      <fr>Perspective</fr>
+     </text>
+     <text name="shopItem_gardenCentre">
+      <en>Garden Centre</en>
+      <de>Gartencenter</de>
+      <fr>Centre du jardin</fr>
+     </text>
+     <text name="shopItem_office">
+      <en>Office</en>
+      <de>Büro</de>
+      <fr>Bureau</fr>
+     </text>
+     <text name="shopItem_smallOffice">
+      <en>Small Office</en>
+      <de>Kleines Büro</de>
+      <fr>Petit bureau</fr>
+     </text>
+     <text name="shopItem_smallOffice2">
+      <en>Small Office 2</en>
+      <de>Kleines Büro 2</de>
+      <fr>Petit bureau 2</fr>
+     </text>
+     <text name="shopItem_siloBin">
+      <en>Silo Bin</en>
+      <de>Silobehälter</de>
+      <fr>Silo poubelle</fr>
+     </text>
+     <text name="shopItem_sweetShop">
+      <en>Sweet Shop</en>
+      <de>Süßwarenladen</de>
+      <fr>Confiserie</fr>
+     </text>
+     <text name="shopItem_lemon">
+      <en>Lemon Greenhouse</en>
+      <de>Zitronengewächshaus</de>
+      <fr>Serre au citron</fr>
+     </text>
+     <text name="shopItem_tomato">
+      <en>Tomato Greenhouse</en>
+      <de>Tomatengewächshaus</de>
+      <fr>Serre de tomate</fr>
+     </text>
+     <text name="shopItem_warehouse">
+      <en>Warehouse</en>
+      <de>Warenhaus</de>
+      <fr>Entrepôt</fr>
+     </text>
+     <text name="shopItem_fencePlanks1">
+      <en>Fence x1</en>
+      <de>Zaun x1</de>
+      <fr>Clôture x1</fr>
+     </text>
+     <text name="shopItem_fencePlanks5">
+      <en>Fence x5</en>
+      <de>Zaun x5</de>
+      <fr>Clôture x5</fr>
+     </text>
+     <text name="shopItem_fencePlanks10">
+      <en>Fence x10</en>
+      <de>Zaun x10</de>
+      <fr>Clôture x10</fr>
+     </text>
+     <text name="shopItem_hedge1Piece">
+      <en>Hedge x1</en>
+      <de>Hecke x1</de>
+      <fr>Haie x1</fr>
+     </text>
+     <text name="shopItem_hedge3Piece">
+      <en>Hedge x3</en>
+      <de>Hecke x3</de>
+      <fr>Haie x3</fr>
+     </text>
+     <text name="station_ssWoodChips">
+      <en>Wood Chips</en>
+      <de>Hackschnitzel</de>
+      <fr>Les copeaux de bois</fr>
+     </text>
+     <text name="shopItem_farmHouseDoormat">
+      <en>Farm house doormat</en>
+      <de>Bauernhof Fußmatte</de>
+      <fr>Paillasson maison de ferme</fr>
+     </text>
+     <text name="function_liquidStorage">
+      <en>Liquid storage tanks</en>
+      <de>Flüssigkeitslagertanks</de>
+      <fr>Réservoirs de stockage de liquide</fr>
+     </text>
+     <text name="function_liquidStorageExtension">
+      <en>Liquid storage extension tank</en>
+      <de>Flüssigkeitsspeicher-Verlängerungstank</de>
+      <fr>Réservoir d'extension de stockage de liquide</fr>
+     </text>
+     <text name="function_bgaExtension">
+      <en>Increases the Digestate storage capacity</en>
+      <de>Erhöht die Digestate-Speicherkapazität</de>
+      <fr>Augmente la capacité de stockage Digestate</fr>
+     </text>
+     <text name="function_fencePlanks1">
+      <en>1 Piece placeable fence, Best placed on flat ground</en>
+      <de>1 Stück platzierbarer Zaun, am besten auf ebenem Boden platziert</de>
+      <fr>1 Pièce clôture placable, mieux placée sur un sol plat</fr>
+     </text>
+     <text name="function_fencePlanks5">
+      <en>5 Piece placeable fence, Best placed on flat ground</en>
+      <de>5 Stück platzierbarer Zaun, am besten auf ebenem Boden platziert</de>
+      <fr>5 Pièce clôture placable, mieux placée sur un sol plat</fr>
+     </text>
+     <text name="function_fencePlanks10">
+      <en>10 Piece placeable fence, Best placed on flat ground</en>
+      <de>10 Stück platzierbarer Zaun, am besten auf ebenem Boden platziert</de>
+      <fr>10 Pièce clôture placable, mieux placée sur un sol plat</fr>
+     </text>
+     <text name="function_hedge1Piece">
+      <en>1 Piece placeable hedge, Best placed on flat ground</en>
+      <de>1 Stück platzierbare Hecke, am besten auf ebenem Boden platziert</de>
+      <fr>1 Haie placable en morceaux, mieux placée sur un sol plat</fr>
+     </text>
+     <text name="function_hedge3Piece">
+      <en>3 Piece placeable hedge, Best placed on flat ground</en>
+      <de>3 Stück platzierbare Hecke, am besten auf ebenem Boden platziert</de>
+      <fr>3 Haie placable en morceaux, mieux placée sur un sol plat</fr>
+     </text>
+     <text name="function_smallBGA">
+      <en>A small placeable BGA, Pays out at midnight</en>
+      <de>Eine kleine platzierbare BGA, zahlt sich um Mitternacht aus</de>
+      <fr>Un petit BGA placable, paye à minuit</fr>
+     </text>
+     <text name="function_pss">
+      <en>Placeable Selling Station</en>
+      <de>Platzierbare Verkaufsstation</de>
+      <fr>Station de vente placable</fr>
+     </text>
+     <text name="function_mills">
+      <en>Income per Hour: 1000 / 500 / 250 €</en>
+      <de>Einkommen pro Stunde: 1000 / 500 / 250 €</de>
+      <fr>Revenu par heure: 1000 / 500 / 250 €</fr>
+     </text>
+     <text name="function_oldNightLight">
+      <en>Old placeable night light</en>
+      <de>Altes platzierbares Nachtlicht</de>
+      <fr>Vieille veilleuse placable</fr>
+     </text>
+     <text name="function_baleShelter">
+      <en>You can store your bales in this shelter</en>
+      <de>Sie können Ihre Ballen in diesem Tierheim aufbewahren</de>
+      <fr>Vous pouvez stocker vos balles dans cet abri</fr>
+     </text>
+     <text name="function_machineshed">
+      <en>You can store your machines in this shed</en>
+      <de>In dieser Halle kannst du deine Maschinen unterstellen.</de>
+      <fr>Vous pouvez stocker vos machines dans ce hangar</fr>
+     </text>
+     <text name="function_warehouse">
+      <en>You can store your machines in this warehouse</en>
+      <de>In dieser Halle kannst du deine Maschinen lagern</de>
+      <fr>Vous pouvez stocker vos machines dans cet entrepôt</fr>
+     </text>
+     <text name="station_ssBales">
+      <en>Straw Barn</en>
+      <de>Strohscheune</de>
+      <fr>Grange de paille</fr>
+     </text>
+     <text name="station_siloMaster">
+      <en>Silo Master</en>
+      <de>Silomeister</de>
+      <fr>Maître du silo</fr>
+     </text>
+     <text name="action_lightOn">
+      <en>switch lights on</en>
+      <de>Licht anschalten</de>
+      <fr>allumer les lumières</fr>
+     </text>
+     <text name="action_lightOff">
+      <en>switch lights off</en>
+      <de>Licht ausschalten</de>
+      <fr>éteindre les lumières</fr>
+     </text>
+     <text name="action_openDoors">
+      <en>Open Door</en>
+      <de>Türen öffnen</de>
+      <fr>Portes ouvertess</fr>
+     </text>
+     <text name="action_closeDoors">
+      <en>Close Door</en>
+      <de>Türen schließen</de>
+      <fr>Portes fermées</fr>
+     </text>
+     <text name="action_openCloseShutters">
+      <en>Open/Close Shutters</en>
+      <de>Jalousien öffnen / schließen</de>
+      <fr>Ouvrir / Fermer les volets</fr>
+     </text>
+     <text name="action_onOff">
+      <en>Turn on/off</en>
+      <de>Schalten an/aus</de>
+      <fr>Éteignez allumées/éteintes</fr>
+     </text>
+     <text name="action_openWaterValve">
+      <en>Open Water Valve</en>
+      <de>Wasserventil öffnen</de>
+      <fr>Vanne d'eau ouverte</fr>
+     </text>
+     <text name="action_openCloseGate">
+      <en>Open/Close Gate</en>
+      <de>Öffnen/Schließen </de>
+      <fr>Ouvrir/Fermer </fr>
+     </text>
+     <text name="action_openCloseDoors">
+      <en>Open/Close Doors</en>
+      <de>Türen öffnen / schließen</de>
+      <fr>Portes ouvertes / fermées</fr>
+     </text>
+     <text name="action_openCloseDoor">
+      <en>Open/Close Door</en>
+      <de>Tür öffnen / schließen</de>
+      <fr>Porte ouverte / fermée</fr>
+     </text>
+     <text name="action_lightsOnOff">
+      <en>Turn Lights On/Off</en>
+      <de>Schalten Sie die Lichter ein / aus</de>
+      <fr>Allumer / éteindre les lumières</fr>
+     </text>
+     <text name="action_windmillOnOff">
+      <en>Turn Windmill on/off</en>
+      <de>Schalten an/aus</de>
+      <fr>Éteignez allumées/éteintes</fr>
+     </text>
+     <text name="function_farmHouseDoormat">
+      <en>A farm house doormat with sleep trigger and spawn point</en>
+      <de>Eine Bauernhaus Fußmatte mit Sleep Trigger und Spawn Point</de>
+      <fr>Paillasson de ferme avec déclencheur de sommeil et point d'apparition</fr>
+     </text>
+    </l10n>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
         <brand name="BOBS" title="Bob&apos;s Burgers" image="store/Bobs_Burgers_Logo.dds"/>

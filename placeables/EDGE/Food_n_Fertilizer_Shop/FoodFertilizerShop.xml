@@ -8,7 +8,7 @@
         </functions>
         <image>placeables/EDGE/Food_n_Fertilizer_Shop/Store_fillingArea.dds</image>
         <canBeSold>true</canBeSold>
-        <showInStore>true</showInStore>
+        <showInStore>false</showInStore>
         <boughtWithFarmland>true</boughtWithFarmland>
         <price>25000</price>
         <lifetime>1000</lifetime>

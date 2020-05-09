@@ -199,8 +199,7 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/outlook.xml"/>
         <storeItem xmlFilename="placeables/EDGE/watermillBroken.xml"/>
     </storeItems>
-	<l10n filenamePrefix="modDesc/modDesc_l10n"/>
-    <l10n>
+	<l10n filenamePrefix="modDesc/modDesc_l10n">
      <text name="ssvsGrains">
       <en>Vehicle Shop Grains</en>
       <de>Fahrzeug-Shop Körner</de>

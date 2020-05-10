@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable>
     <storeData>
-        <name>$l10n_shopItem_sellingStation</name>
-        <image>$data/store/store_empty.png</image>
-        <price>1</price>
-        <canBeSold>false</canBeSold>
-        <showInStore>false</showInStore>
+        <name>$l10n_name_OceanBeach</name>
+        <functions>
+            <function>$l10n_function_OceanBeach</function>
+            <function>$l10n_function_sellingStation</function>
+        </functions>
+        <specs>
+            <fillTypeCategories>FARMSILO</fillTypeCategories>
+        </specs>
+        <image>store/store_sellingStations.dds</image>
+        <boughtWithFarmland>true</boughtWithFarmland>
+        <price>30000</price>
+        <dailyUpkeep>30</dailyUpkeep>
         <lifetime>1000</lifetime>
         <rotation>0</rotation>
         <brand>EDGE</brand>
@@ -15,9 +22,27 @@
 
     <placeableType>sellingStation</placeableType>
     <filename>placeables/sellingStations/sellingStationGeneric01.i3d</filename>
-    <placement testSizeX="15" testSizeZ="8" sizeX="4" sizeZ="3" useRandomYRotation="false" useManualYRotation="true" />
-
-    <sellingStation stationName="$l10n_station_OceanBeach" appearsOnPDA="true" appearsOnStats="true" storageRadius="0" litersForFullPriceDrop="150000" fullPriceRecoverHours="52">
+    <placement testSizeX="9" testSizeZ="6" sizeX="8" sizeZ="5" useRandomYRotation="false" useManualYRotation="true" />
+    <dayNightObjects>
+        <dayNightObject node="2|0|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
+        <dayNightObject node="2|1|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
+        <dayNightObject node="2|2|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
+        <dayNightObject node="2|3|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
+    </dayNightObjects>
+    <clearAreas>
+        <clearArea startNode="3|1|0" widthNode="3|1|0|0" heightNode="3|1|0|1"/>
+    </clearAreas>
+    <leveling requireLeveling="true" maxSmoothDistance="5" maxSlope="30" maxEdgeAngle="20">
+        <levelAreas>
+            <levelArea startNode="3|1|0" widthNode="3|1|0|0" heightNode="3|1|0|1"/>
+        </levelAreas>
+    </leveling>
+    <seasons>
+        <maskAreas>
+            <maskArea startNode="3|0|0" widthNode="3|0|0|0" heightNode="3|0|0|1" />
+        </maskAreas>
+    </seasons>
+    <sellingStation stationName="$l10n_OceanBeach" appearsOnPDA="true" appearsOnStats="true" storageRadius="0" litersForFullPriceDrop="150000" fullPriceRecoverHours="52">
         <unloadTrigger exactFillRootNode="1|0|0|0" baleTriggerNode="1|0|0|2" sellTriggerNode="1|0|0|1|2" />
 		<fillType name="wheat"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="barley"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
@@ -33,4 +58,8 @@
         <fillType name="cotton"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="hemp"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
     </sellingStation>
+    <tipOcclusionUpdateArea sizeX="10" sizeZ="6" />
+    <triggerMarkers>
+        <triggerMarker node="0|1" />
+    </triggerMarkers>
 </placeable>

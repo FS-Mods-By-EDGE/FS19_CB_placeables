@@ -2,19 +2,22 @@
 <placeable>
  <storeData>
   <name>$l10n_shopItem_ssBales</name>
+  <specs>
+      <fillTypeCategories>FORAGEHARVESTER FORK</fillTypeCategories>
+      <fillTypeCategories>COTTON</fillTypeCategories>
+  </specs>
+  <functions>
+      <function>$l10n_function_ssBales</function>
+      <function>$l10n_function_sellingStation</function>
+  </functions>
   <image>store/store_sellingStationBales.png</image>
-  <price>52000</price>
+  <price>45000</price>
   <dailyUpkeep>46</dailyUpkeep>
   <lifetime>1000</lifetime>
   <rotation>0</rotation>
-  <brand>AJTECH</brand>
+  <brand>EDGE</brand>
   <species>placeable</species>
   <category>placeableMisc</category>
-  <vertexBufferMemoryUsage>310848</vertexBufferMemoryUsage>
-  <indexBufferMemoryUsage>50412</indexBufferMemoryUsage>
-  <textureMemoryUsage>5288216</textureMemoryUsage>
-  <instanceVertexBufferMemoryUsage>0</instanceVertexBufferMemoryUsage>
-  <instanceIndexBufferMemoryUsage>0</instanceIndexBufferMemoryUsage>
  </storeData>
 
  <placeableType>sellingStation</placeableType>
@@ -34,6 +37,8 @@
   <fillType name="dryGrass_windrow" priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
   <fillType name="grass_windrow"    priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
   <fillType name="silage"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
+  <fillType name="cotton"           priceScale="0.98" supportsGreatDemand="true" disablePriceDrop="false"/>
+  <fillType name="woodchips"        priceScale="0.96" supportsGreatDemand="true" disablePriceDrop="false" />
  </sellingStation>
 
  <triggerMarkers>

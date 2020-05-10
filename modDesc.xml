@@ -132,7 +132,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/Extras/greenScreen.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationBales01.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationDistillery.xml"/>
-        <storeItem xmlFilename="placeables/sellingStations/sellingStationMill.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationSupermarket.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationWoodChips01.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationLimaGrain.xml"/>
@@ -140,6 +139,7 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/StrawBarn_SellingSpot/StrawBarn_SellingSpot.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationWoodChips02.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationLemonways.xml"/>
+        <storeItem xmlFilename="placeables/sellingStations/sellingStationMill.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationGeneric01.xml"/>
         <storeItem xmlFilename="placeables/sellingStations/sellingStationShop.xml"/>
         <storeItem xmlFilename="placeables/EDGE/Multi_Filling_Station/MultiFillingStationDark.xml"/>
@@ -239,11 +239,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
       <en>Wood Chips Sell Point</en>
       <de>Hackschnitzel Verkaufspunkt</de>
       <fr>Point de vente de copeaux de bois</fr>
-     </text>
-     <text name="shopItem_ssBales">
-      <en>Straw Barn</en>
-      <de>Strohscheune</de>
-      <fr>Grange de paille</fr>
      </text>
      <text name="shopItem_rock1">
       <en>Rock 1</en>
@@ -524,11 +519,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
       <en>You can store your machines in this warehouse</en>
       <de>In dieser Halle kannst du deine Maschinen lagern</de>
       <fr>Vous pouvez stocker vos machines dans cet entrepôt</fr>
-     </text>
-     <text name="station_ssBales">
-      <en>Straw Barn</en>
-      <de>Strohscheune</de>
-      <fr>Grange de paille</fr>
      </text>
      <text name="station_siloMaster">
       <en>Silo Master</en>

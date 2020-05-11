@@ -17,10 +17,10 @@
 		<text name="Lemonways"    						text="LemonWays"/>
 		<text name="name_mill"    						text="Sugar Mill"/>
 		<text name="function_mill"    					text="Sugar Mill Selling Station."/>
-		<text name="mill"         						text="The Mill"/>
-		<text name="name_mill"    						text="Ocean Beach"/>
-		<text name="function_mill"    					text="Ocean Beach Selling Station."/>
-		<text name="OceanBeach"    						text="Ocean Beach Kitchen"/>
+		<text name="mill"         						text="Sugar Mill"/>
+		<text name="name_OceanBeach"    				text="Ocean Beach"/>
+		<text name="function_OceanBeach"    			text="Ocean Beach Selling Station."/>
+		<text name="OceanBeach"    						text="Ocean Beach"/>
 		<text name="minimarket"         				text="Mini Market"/>
 		<text name="name_shopSS"    					text="Mess Hall"/>
 		<text name="function_shopSS"    				text="Mess Hall Selling Station."/>
@@ -31,11 +31,11 @@
 		<text name="function_EDGELights"         		text="Building has Automatic Lights"/>
 		<text name="name_WaterWell"    					text="Water Well"/>
 		<text name="name_limestation"    				text="Lime Station"/>
-		<text name="Trashyard"    						text="Trashyard"/>
 		<text name="EDGE"    							text="EDGE Industries"/>
         <text name="shopItem_ssBales"					text="Straw Barn"/>
 		<text name="function_shopSS"    				text="Straw Barn Selling Station."/>
         <text name="station_ssBales"					text="Straw Barn"/>
+        <text name="fillMark_01"						text="Fillmark"/>
 			<!--MultiStations-->
 		<text name="name_MultiSellingStation_Black"		text="Multi Selling Station"/>
 		<text name="function_MultiSellingStation"		text="Here you can sell anything you'd like, From crop harvest to seeds and fertilizer."/>
@@ -54,19 +54,5 @@
 			<!--Actions-->
 		<text name="action_toggleFillmark_on" 			text="Fillmark on"/>
 		<text name="action_toggleFillmark_off" 			text="Fillmark off"/>
-			<!--Missions-->
-		<text name="BOTTLE DELIVERY" 					text="Bottle Delivery"/>
-		<text name="HARDWARE DELIVERY" 					text="Hardware Delivery"/>
-		<text name="WATER DELIVERY" 					text="Water Delivery"/>
-		<text name="FOOD DELIVERY" 						text="Food Delivery"/>
-		<text name="SUGAR MILL DELIVERY" 				text="Sugar Mill Delivery"/>
-		<text name="MIX DELIVERY" 						text="Moxed Goods Delivery"/>
-		<text name="CORPORATE DELIVERY" 				text="Corporate Delivery"/>
-		<text name="SEEDFERTILIZER DELIVERY" 			text="Seed & Fertilizer Delivery"/>
-		<text name="COMPUTER DELIVERY" 					text="Computer Delivery"/>
-		<text name="BROKEN COMPUTER DELIVERY" 			text="Broken Computer Delivery"/>
-		<text name="BEER DELIVERY" 						text="Beer Delivery"/>
-		<text name="BALE DELIVERY" 						text="Bale Delivery"/>
-		<text name="MACHINERY DELIVERY" 				text="Machinery Delivery"/>
 	</texts>
 </l10n>

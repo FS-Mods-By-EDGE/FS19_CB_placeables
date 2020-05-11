@@ -22,25 +22,6 @@
     <placeableType>sellingStation</placeableType>
     <filename>placeables/sellingStations/sellingStationGeneric01.i3d</filename>
     <placement testSizeX="9" testSizeZ="6" sizeX="8" sizeZ="5" useRandomYRotation="false" useManualYRotation="true" />
-    <dayNightObjects>
-        <dayNightObject node="2|0|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
-        <dayNightObject node="2|1|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
-        <dayNightObject node="2|2|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
-        <dayNightObject node="2|3|0" visibleDay="true" visibleNight="true" intensityNight="0.6" intensityNight="1.0"/>
-    </dayNightObjects>
-    <clearAreas>
-        <clearArea startNode="3|1|0" widthNode="3|1|0|0" heightNode="3|1|0|1"/>
-    </clearAreas>
-    <leveling requireLeveling="true" maxSmoothDistance="5" maxSlope="30" maxEdgeAngle="20">
-        <levelAreas>
-            <levelArea startNode="3|1|0" widthNode="3|1|0|0" heightNode="3|1|0|1"/>
-        </levelAreas>
-    </leveling>
-    <seasons>
-        <maskAreas>
-            <maskArea startNode="3|0|0" widthNode="3|0|0|0" heightNode="3|0|0|1" />
-        </maskAreas>
-    </seasons>
     <sellingStation stationName="$l10n_shopSS" appearsOnPDA="true" appearsOnStats="true" storageRadius="0" litersForFullPriceDrop="150000" fullPriceRecoverHours="52">
         <unloadTrigger exactFillRootNode="1|0|0|0" baleTriggerNode="1|0|0|2" sellTriggerNode="1|0|0|1|2" />
 		<fillType name="wheat"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
@@ -58,6 +39,19 @@
         <fillType name="egg"              priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="milk"             priceScale="1.01" supportsGreatDemand="true" disablePriceDrop="false" />
     </sellingStation>
+    <clearAreas>
+        <clearArea startNode="3|1|0" widthNode="3|1|0|0" heightNode="3|1|0|1" />
+    </clearAreas>
+    <leveling requireLeveling="true" maxSmoothDistance="5" maxSlope="30" maxEdgeAngle="20">
+        <levelAreas>
+            <levelArea startNode="3|1|0" widthNode="3|1|0|0" heightNode="3|1|0|1" />
+        </levelAreas>
+    </leveling>
+    <seasons>
+        <maskAreas>
+            <maskArea startNode="3|0|0" widthNode="3|0|0|0" heightNode="3|0|0|1" />
+        </maskAreas>
+    </seasons>
     <tipOcclusionUpdateArea sizeX="10" sizeZ="6" />
     <triggerMarkers>
         <triggerMarker node="0|1" />

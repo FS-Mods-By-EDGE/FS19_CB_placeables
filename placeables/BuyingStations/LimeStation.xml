@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable>
     <storeData>
-        <name>$l10n_name_limestation</name>
+        <name>$l10n_shopItem_limeStation</name>
         <image>$data/store/store_empty.png</image>
         <price>5000</price>
         <canBeSold>true</canBeSold>
@@ -23,7 +23,7 @@
     <clearAreas>
         <clearArea startNode="3|0" widthNode="3|0|0" heightNode="3|0|1"/>
     </clearAreas>
-	<buyingStation stationName="$l10n_station_lime" appearsOnPDA="true" storageRadius="0" fillSoundIdentifier="fillSound01">
+	<buyingStation stationName="$l10n_shopItem_limeStation" appearsOnPDA="true" storageRadius="0" fillSoundIdentifier="fillSound01">
         <loadTrigger triggerNode="1|0|0|0|0" fillLitersPerSecond="2000" infiniteCapacity="true" dischargeNode="1|0|0|0|1">
             <effectNode effectClass="PipeEffect" effectNode="1|0|0|0|2|0" materialType="pipe" materialTypeId="1" fadeTime="0.5" maxBending="0" controlPoint="3.75 0 0 0"/>
             <effectNode effectNode="1|0|0|0|2|1" materialType="smoke" materialTypeId="1" fadeTime="0.5"/>

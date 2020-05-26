@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <placeable>
     <storeData>
-        <name>$l10n_name_shopSS</name>
+        <name>$l10n_name_messSS</name>
         <functions>
-            <function>$l10n_function_shopSS</function>
+            <function>$l10n_function_messSS</function>
             <function>$l10n_function_sellingStation</function>
         </functions>
         <specs>
@@ -22,7 +22,7 @@
     <placeableType>sellingStation</placeableType>
     <filename>placeables/sellingStations/sellingStationGeneric01.i3d</filename>
     <placement testSizeX="9" testSizeZ="6" sizeX="8" sizeZ="5" useRandomYRotation="false" useManualYRotation="true" />
-    <sellingStation stationName="$l10n_shopSS" appearsOnPDA="true" appearsOnStats="true" storageRadius="0" litersForFullPriceDrop="150000" fullPriceRecoverHours="52">
+    <sellingStation stationName="$l10n_messSS" appearsOnPDA="true" appearsOnStats="true" storageRadius="0" litersForFullPriceDrop="150000" fullPriceRecoverHours="52">
         <unloadTrigger exactFillRootNode="1|0|0|0" baleTriggerNode="1|0|0|2" sellTriggerNode="1|0|0|1|2" />
 		<fillType name="wheat"            priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />
         <fillType name="barley"           priceScale="1" supportsGreatDemand="true" disablePriceDrop="false" />

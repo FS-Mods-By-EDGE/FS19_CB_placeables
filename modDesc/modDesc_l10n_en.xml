@@ -22,9 +22,9 @@
 		<text name="function_OceanBeach"    			text="Ocean Beach Selling Station."/>
 		<text name="OceanBeach"    						text="Ocean Beach"/>
 		<text name="minimarket"         				text="Mini Market"/>
-		<text name="name_shopSS"    					text="Mess Hall"/>
-		<text name="function_shopSS"    				text="Mess Hall Selling Station."/>
-		<text name="shopSS"    							text="Mess hall Grains"/>
+		<text name="name_messSS"    					text="Mess Hall"/>
+		<text name="function_messSS"    				text="Mess Hall Selling Station."/>
+		<text name="messSS"    							text="Mess hall Grains"/>
 		<text name="name_EDGE_Sign"    					text="EDGE Sign"/>
 		<text name="function_EDGE_Sign"					text="This sign will earn you a small amount of advertisement revenue."/>
 		<text name="function_WaterWell"    				text="A well where you can get free water"/>

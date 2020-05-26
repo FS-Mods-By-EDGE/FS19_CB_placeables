@@ -122,9 +122,7 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
     <multiplayer supported="true"/>
     <storeItems>
         <storeItem xmlFilename="placeables/props/EdgeSign.xml"/>
-        <storeItem xmlFilename="placeables/bga/bga01.xml"/>
         <storeItem xmlFilename="placeables/waterFillTriggers/waterFillTriggers01.xml"/>
-        <storeItem xmlFilename="placeables/bga/bga02.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation01.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/gasStation02.xml"/>
         <storeItem xmlFilename="placeables/BuyingStations/LimeStation.xml"/>
@@ -145,8 +143,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/Multi_Filling_Station/MultiFillingStationDark.xml"/>
         <storeItem xmlFilename="placeables/EDGE/Multi_Selling_Station/MultiSellingStationDark.xml"/>
         <storeItem xmlFilename="placeables/EDGE/Food_n_Fertilizer_Shop/FoodFertilizerShop.xml"/>
-        <storeItem xmlFilename="placeables/bga/bga.xml"/>
-        <storeItem xmlFilename="placeables/bga/bgaExtension.xml"/>
         <storeItem xmlFilename="placeables/doormat/doormat.xml"/>
         <storeItem xmlFilename="placeables/EDGE/farmSilo.xml"/>
         <storeItem xmlFilename="placeables/EDGE/farmSiloExtension.xml"/>
@@ -198,6 +194,9 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
         <storeItem xmlFilename="placeables/EDGE/huntingHut.xml"/>
         <storeItem xmlFilename="placeables/EDGE/outlook.xml"/>
         <storeItem xmlFilename="placeables/EDGE/watermillBroken.xml"/>
+        <storeItem xmlFilename="maps/data/placeables/farmMansion.xml"/>
+        <storeItem xmlFilename="maps/data/placeables/farmSilo.xml"/>
+        <storeItem xmlFilename="maps/data/placeables/farmStorageBarn.xml"/>
     </storeItems>
 	<l10n filenamePrefix="modDesc/modDesc_l10n">
      <text name="ssvsGrains">
@@ -289,16 +288,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
       <en>Old Red Brick House</en>
       <de>Altes Haus aus rotem Backstein</de>
       <fr>Ancienne maison en brique rouge</fr>
-     </text>
-     <text name="shopItem_smallBGA">
-      <en>Small BGA</en>
-      <de>Kleine BGA</de>
-      <fr>Petit BGA</fr>
-     </text>
-     <text name="shopItem_bgaExtension">
-      <en>BGA Digestate Extension Tank</en>
-      <de>BGA Verdauen Ausgleichsbehälter</de>
-      <fr>BGA Réservoir d'extension de digestat</fr>
      </text>
      <text name="shopItem_grainSilo">
       <en>Grain Silo</en>
@@ -455,11 +444,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
       <de>Flüssigkeitsspeicher-Verlängerungstank</de>
       <fr>Réservoir d'extension de stockage de liquide</fr>
      </text>
-     <text name="function_bgaExtension">
-      <en>Increases the Digestate storage capacity</en>
-      <de>Erhöht die Digestate-Speicherkapazität</de>
-      <fr>Augmente la capacité de stockage Digestate</fr>
-     </text>
      <text name="function_fencePlanks1">
       <en>1 Piece placeable fence, Best placed on flat ground</en>
       <de>1 Stück platzierbarer Zaun, am besten auf ebenem Boden platziert</de>
@@ -484,11 +468,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
       <en>3 Piece placeable hedge, Best placed on flat ground</en>
       <de>3 Stück platzierbare Hecke, am besten auf ebenem Boden platziert</de>
       <fr>3 Haie placable en morceaux, mieux placée sur un sol plat</fr>
-     </text>
-     <text name="function_smallBGA">
-      <en>A small placeable BGA, Pays out at midnight</en>
-      <de>Eine kleine platzierbare BGA, zahlt sich um Mitternacht aus</de>
-      <fr>Un petit BGA placable, paye à minuit</fr>
      </text>
      <text name="function_pss">
       <en>Placeable Selling Station</en>
@@ -593,9 +572,6 @@ Velocità di sovraccarico 2000 litri al secondo.]]></it>
     </l10n>
     <brands>
         <brand name="EDGE" title="EDGE Industries" image="store/EDGE_Brand_Logo.dds"/>
-        <brand name="BOBS" title="Bob&apos;s Burgers" image="store/Bobs_Burgers_Logo.dds"/>
-        <brand name="BECKS" title="Beck&apos;s Brewery" image="store/Becks_Logo.dds"/>
-        <brand name="BRU" title="EDGE Industries" image="store/Bru_Logo.dds"/>
         <brand name="LIMAGRAIN" title="Limagrain" image="store/Limagrain_Logo.dds"/>
         <brand name="AJTECH" title="AJ TECH" image="store/brand_ajTech.png"/>
     </brands>
